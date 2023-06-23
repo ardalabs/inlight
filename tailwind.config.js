@@ -17,5 +17,7 @@ export default {
       xl:'2.5rem',
     },
   },
-  plugins: [],
+  plugins: [
+    require("daisyui")
+  ],
 };

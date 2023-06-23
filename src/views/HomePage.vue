@@ -1,6 +1,7 @@
 <script setup>
 import ElementBackground from '../components/common/ElementBackground.vue';
 import commonButton from '../components/common/commonButton.vue';
+import ProductCard from '../components/common/ProductCard.vue';
 </script>
 
 <template>
@@ -22,7 +23,7 @@ import commonButton from '../components/common/commonButton.vue';
             <img
               src="/common/ic-arrow-right.svg"
               alt="Arrow Right"
-              class="w-6"
+              class="w-6 mt-4"
             />
           </div>
         </div>
@@ -48,10 +49,86 @@ import commonButton from '../components/common/commonButton.vue';
       <div>
         <h1>About Us</h1>
         <p class="text-gray-500 mt-2">Fluxwood is a family-owned business consisting of a small team of craftspeople and designers. Our design studio, timber and electrical workshops are located in Currumbin, Queensland. We are proud to collaborate with other local skilled makers across Queensland who contribute to crafting the high quality components for our timber lighting range</p>
-        <commonButton text="Read More" customClass="w-1/2" />
+        <commonButton text="Read More" customClass="w-1/2 mt-4" />
       </div>
       <div class="mt-8">
         <img src="/homePage/about-us.png" alt="about us">
+      </div>
+    </div>
+    
+    <!-- fourth section -->
+    <div class="mt-16">
+      <div class="flex justify-between items-center">
+        <h2>Featured Lighting</h2>
+        <commonButton text="View All" />
+      </div>
+      <div class="mt-8">
+        <div class="carousel space-x-4">
+          <div class="carousel-item">
+            <ProductCard img="/homePage/featured-1.png"  title="SIlo Timber Sienco" price="98.0" />
+          </div>
+          <div class="carousel-item">
+            <ProductCard img="/homePage/featured-1.png"  title="SIlo Timber Sienco" price="98.0" />
+          </div>
+          <div class="carousel-item">
+            <ProductCard img="/homePage/featured-1.png"  title="SIlo Timber Sienco" price="98.0" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- fifth section -->
+    <div class="mt-16">
+      <h2 class="font-semibold mb-16 text-center">Our Clients Testimonials</h2>
+      <div class="carousel w-full">
+        <div id="slide1" class="carousel-item relative w-full">
+          <div class="text-center">
+            <div class="flex items-center justify-center space-x-3">
+              <img src="/homePage/cust-1.png" alt="customer">
+              <div>
+                <p class="font-semibold">Akbar Nugroho</p>
+                <p class="text-gray-500 font-light">Family Pshycian</p>
+              </div>
+            </div>
+            <p class="mt-8">We love our new Tenn linear pendant. Shari has been very helpful throughout. Fluxwood is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb.</p>
+          </div>
+          <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+            <a href="#slide3" class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black">❮</a> 
+            <a href="#slide2" class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black">❯</a>
+          </div>
+        </div> 
+        <div id="slide2" class="carousel-item relative w-full">
+          <div class="text-center">
+            <div class="flex items-center justify-center space-x-3">
+              <img src="/homePage/cust-1.png" alt="customer">
+              <div>
+                <p class="font-semibold">Akbar Nugroho</p>
+                <p class="text-gray-500 font-light">Family Pshycian</p>
+              </div>
+            </div>
+            <p class="mt-8">We love our new Tenn linear pendant. Shari has been very helpful throughout. Fluxwood is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb.</p>
+          </div>
+          <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+            <a href="#slide1" class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black">❮</a> 
+            <a href="#slide3" class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black">❯</a>
+          </div>
+        </div> 
+        <div id="slide3" class="carousel-item relative w-full">
+          <div class="text-center">
+            <div class="flex items-center justify-center space-x-3">
+              <img src="/homePage/cust-1.png" alt="customer">
+              <div>
+                <p class="font-semibold">Akbar Nugroho</p>
+                <p class="text-gray-500 font-light">Family Pshycian</p>
+              </div>
+            </div>
+            <p class="mt-8">We love our new Tenn linear pendant. Shari has been very helpful throughout. Fluxwood is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb.</p>
+          </div>
+          <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+            <a href="#slide2" class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black">❮</a> 
+            <a href="#slide1" class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black">❯</a>
+          </div>
+        </div> 
       </div>
     </div>
   </div>
