@@ -12,12 +12,12 @@
 </template>
 
 <script>
-export default{
-  props:{
+export default {
+  props: {
     img: String,
     title: String,
     price: String,
     customClass: String,
-  }
-}
+  },
+};
 </script>
