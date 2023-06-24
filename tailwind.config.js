@@ -11,16 +11,16 @@ export default {
         "primary": "#B48061",
         "dark-primary": "#A06F52",
       },
-      backgroundImage:{
-        'footer': "url('/common/bg-footer.png')",
-      }
     },
     fontSize: {
-      xs:'0.5rem',
-      sm:'0.75rem',
-      md:'1rem',
-      lg:'1.25rem',
-      xl:'2.5rem',
+      sm: '.75rem',
+      md: '1rem',
+      lg: '1.125rem',
+      xl: '1.25rem',
+      '2xl': '1.5rem',
+      '3xl': '2rem',
+      '4xl': '2.35rem',
+      '5xl': '3rem',
     },
   },
   plugins: [

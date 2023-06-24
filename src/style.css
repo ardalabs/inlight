@@ -20,16 +20,23 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 
-  --text-size-xs: 0.5rem;
+  /* --text-size-xs: 0.5rem;
   --text-size-sm: 0.75rem;
   --text-size-md: 1rem;
   --text-size-lg: 1.25rem;
-  --text-size-xl: 2rem;
-
+  --text-size-xl: 2rem; */
+  --text-size-sm: 0.75rem;
+  --text-size-md: 1rem;
+  --text-size-lg: 1.125rem;
+  --text-size-xl: 1.25rem;
+  --text-size-2xl: 1.5rem;
+  --text-size-3xl: 1.9rem;
+  --text-size-4xl: 2.25rem;
+  --text-size-5xl: 2.85rem;
 }
 
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   :root {
     --text-size-xs: calc(0.5rem + 0.15rem);
     --text-size-sm: calc(0.75rem + 0.15rem);
@@ -68,7 +75,7 @@
     --text-size-lg: calc(1.25rem + 0.45rem);
     --text-size-xl: calc(2.5rem + 0.35rem);
   }
-}
+} */
 
 p.text-sm {
   font-size: var(--text-size-sm);
@@ -78,11 +85,27 @@ p {
   font-size: var(--text-size-md);
 }
 
-h2 {
+h6 {
   font-size: var(--text-size-lg);
 }
 
-h1 {
+h5 {
   font-size: var(--text-size-xl);
+}
+
+h4 {
+  font-size: var(--text-size-2xl);
+}
+
+h3 {
+  font-size: var(--text-size-3xl);
+}
+
+h2 {
+  font-size: var(--text-size-4xl);
+}
+
+h1 {
+  font-size: var(--text-size-5xl);
 }
 

@@ -3,13 +3,13 @@
     <div class="flex items-center justify-center space-x-3">
       <img :src="img" alt="customer" />
       <div>
-        <p class="font-semibold">{{ peopleName }}</p>
-        <p class="text-gray-500 font-light">{{ peopleJob }}</p>
+        <h4 class="font-semibold">{{ peopleName }}</h4>
+        <h4 class="text-gray-500 font-light">{{ peopleJob }}</h4>
       </div>
     </div>
-    <p class="mt-8">
+    <h5 class="mt-8">
       {{ peopleTestimony }}
-    </p>
+    </h5>
   </div>
 </template>
 

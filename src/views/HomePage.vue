@@ -7,20 +7,20 @@ import Footer from "../components/common/Footer.vue";
 </script>
 
 <template>
-  <div class="relatie max-w-sm m-auto my-12">
+  <div class="relatie max-w-sm sm:max-w-md m-auto my-12">
     <ElementBackground />
 
     <!-- hero section -->
     <div class="z-50">
       <div class="">
-        <h1>Indonesia Timber Lighting</h1>
+        <h1 class="leading-tight">Indonesia Timber Lighting</h1>
         <p class="text-gray-500 mt-2">
           Offering a captivating array of timber-based lighting products that
           illuminate any space with timeless elegance.
         </p>
         <div class="flex justify-start gap-x-6 items-center mt-6">
           <commonButton text="Explore Now" />
-          <div class="px-4 py-3 bg-white flex items-center gap-x-4">
+          <div class="px-4 py-3 hover:bg-slate-100 flex items-center gap-x-4">
             <p class="">Our Collection</p>
             <img
               src="/common/ic-arrow-right.svg"
@@ -38,12 +38,12 @@ import Footer from "../components/common/Footer.vue";
     <!-- second section -->
     <div class="mt-16">
       <div>
-        <h2>
+        <h3 class="leading-tight">
           We craft contemporary and high quality
           <span class="text-primary font-semibold">Indonesian</span> Made
           <span class="text-primary font-semibold">timber lighting</span>
           pieces.
-        </h2>
+        </h3>
         <p class="text-gray-500 mt-4">
           We craft thoughtfully Indonesian Made lighting from beautiful, locally
           sourced solid timber. We have been working with timber for over 35
@@ -61,15 +61,15 @@ import Footer from "../components/common/Footer.vue";
     <div class="mt-16">
       <div>
         <h1>About Us</h1>
-        <p class="text-gray-500 mt-2">
+        <h5 class="text-gray-500 mt-2">
           Fluxwood is a family-owned business consisting of a small team of
           craftspeople and designers. Our design studio, timber and electrical
           workshops are located in Currumbin, Queensland. We are proud to
           collaborate with other local skilled makers across Queensland who
           contribute to crafting the high quality components for our timber
           lighting range
-        </p>
-        <commonButton text="Read More" customClass="w-40 mt-4" />
+        </h5>
+        <commonButton text="Read More" customClass="w-44 mt-4" />
       </div>
       <div class="mt-8">
         <img src="/homePage/about-us.png" alt="about us" />
@@ -79,7 +79,7 @@ import Footer from "../components/common/Footer.vue";
     <!-- featured section -->
     <div class="mt-16">
       <div class="flex justify-between items-center mb-8">
-        <h2>Featured Lighting</h2>
+        <h2 class="leading-tight">Featured Lighting</h2>
         <commonButton text="View All" />
       </div>
       <div class="carousel w-full">
@@ -152,7 +152,7 @@ import Footer from "../components/common/Footer.vue";
     <!-- testimonial section -->
     <div class="mt-16">
       <ElementBackground />
-      <h2 class="font-semibold mb-8 text-center">Our Clients Testimonials</h2>
+      <h3 class="font-semibold mb-8 text-center">Our Clients Testimonials</h3>
       <div class="carousel w-full">
         <div id="testimonial1" class="carousel-item relative w-full">
           <TestimonialCard
@@ -301,7 +301,7 @@ import Footer from "../components/common/Footer.vue";
         <div class="mt-8">
           <div>
             <div class="flex justify-between items-center px-4" mt-4>
-              <h2 class="col-span-6">Authentic Design</h2>
+              <h4 class="col-span-6">Authentic Design</h4>
               <img
                 src="/common/ic-arrow-down.svg"
                 alt="arrow-down"
@@ -312,7 +312,7 @@ import Footer from "../components/common/Footer.vue";
           </div>
           <div>
             <div class="flex justify-between items-center px-4 mt-4">
-              <h2 class="col-span-6">Quality Solid Timber Lighting</h2>
+              <h4 class="col-span-6">Quality Solid Timber Lighting</h4>
               <img
                 src="/common/ic-arrow-down.svg"
                 alt="arrow-down"
@@ -323,7 +323,7 @@ import Footer from "../components/common/Footer.vue";
           </div>
           <div>
             <div class="flex justify-between items-center px-4 mt-4">
-              <h2 class="col-span-6">Indonesian Made Lighting</h2>
+              <h4 class="col-span-6">Indonesian Made Lighting</h4>
               <img
                 src="/common/ic-arrow-down.svg"
                 alt="arrow-down"

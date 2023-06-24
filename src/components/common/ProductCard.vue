@@ -1,11 +1,11 @@
 <template>
-  <div :class="customClass">
+  <div :class="customClass" class="m-auto">
     <img :src="img" alt="featured" class="w-full mb-4" />
-    <h2>{{ title }}</h2>
+    <h4>{{ title }}</h4>
     <div class="flex justify-between items-center mt-2">
-      <p class="text-primary font-semibold">${{ price }}</p>
+      <h5 class="text-primary font-semibold">${{ price }}</h5>
       <div class="bg-white border py-1 px-4 border-black rounded-full">
-        <p class="font-light text-sm">Learn More</p>
+        <p class="font-light">Learn More</p>
       </div>
     </div>
   </div>
