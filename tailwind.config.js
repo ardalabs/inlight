@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+const plugin = require("tailwindcss/plugin");
+
 export default {
   content: [
     "./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}",
@@ -6,7 +8,11 @@ export default {
   theme: {
     extend: {
       colors:{
-        "primary": "#B48061"
+        "primary": "#B48061",
+        "dark-primary": "#A06F52",
+      },
+      backgroundImage:{
+        'footer': "url('/common/bg-footer.png')",
       }
     },
     fontSize: {
@@ -18,6 +24,19 @@ export default {
     },
   },
   plugins: [
-    require("daisyui")
+    require("daisyui"),
+    plugin(function({ addUtilities }){
+      const utilities = {
+        ".bg-footer": {
+          "background-image": "url(/common/bg-footer.png)",
+          "background-size": "cover",
+          "background-position": "bottom",
+          "background-repeat": "no-repeat"
+        }
+      };
+
+      addUtilities(utilities);
+    })
+
   ],
 };

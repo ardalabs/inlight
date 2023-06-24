@@ -3,6 +3,7 @@ import ElementBackground from "../components/common/ElementBackground.vue";
 import commonButton from "../components/common/commonButton.vue";
 import ProductCard from "../components/common/ProductCard.vue";
 import TestimonialCard from "../components/common/TestimonialCard.vue";
+import Footer from "../components/common/Footer.vue";
 </script>
 
 <template>
@@ -17,14 +18,14 @@ import TestimonialCard from "../components/common/TestimonialCard.vue";
           Offering a captivating array of timber-based lighting products that
           illuminate any space with timeless elegance.
         </p>
-        <div class="flex justify-start gap-x-6 items-center">
+        <div class="flex justify-start gap-x-6 items-center mt-6">
           <commonButton text="Explore Now" />
-          <div class="px-4 py-3 bg-white flex items-center gap-x-4 mt-4">
+          <div class="px-4 py-3 bg-white flex items-center gap-x-4">
             <p class="">Our Collection</p>
             <img
               src="/common/ic-arrow-right.svg"
               alt="Arrow Right"
-              class="w-6 mt-4"
+              class="w-6"
             />
           </div>
         </div>
@@ -68,7 +69,7 @@ import TestimonialCard from "../components/common/TestimonialCard.vue";
           contribute to crafting the high quality components for our timber
           lighting range
         </p>
-        <commonButton text="Read More" customClass="w-1/2 mt-4" />
+        <commonButton text="Read More" customClass="w-40 mt-4" />
       </div>
       <div class="mt-8">
         <img src="/homePage/about-us.png" alt="about us" />
@@ -150,6 +151,7 @@ import TestimonialCard from "../components/common/TestimonialCard.vue";
 
     <!-- testimonial section -->
     <div class="mt-16">
+      <ElementBackground />
       <h2 class="font-semibold mb-8 text-center">Our Clients Testimonials</h2>
       <div class="carousel w-full">
         <div id="testimonial1" class="carousel-item relative w-full">
@@ -290,5 +292,52 @@ import TestimonialCard from "../components/common/TestimonialCard.vue";
         </div>
       </div>
     </div>
+
+    <!-- value section -->
+    <div class="mt-16">
+      <h1>Our Value</h1>
+      <div class="mt-8">
+        <img src="/homePage/value.png" alt="value pict" />
+        <div class="mt-8">
+          <div>
+            <div class="flex justify-between items-center px-4" mt-4>
+              <h2 class="col-span-6">Authentic Design</h2>
+              <img
+                src="/common/ic-arrow-down.svg"
+                alt="arrow-down"
+                class="col-span-1"
+              />
+            </div>
+            <hr class="border-gray-800 rounded-full" />
+          </div>
+          <div>
+            <div class="flex justify-between items-center px-4 mt-4">
+              <h2 class="col-span-6">Quality Solid Timber Lighting</h2>
+              <img
+                src="/common/ic-arrow-down.svg"
+                alt="arrow-down"
+                class="col-span-1"
+              />
+            </div>
+            <hr class="border-gray-800 rounded-full" />
+          </div>
+          <div>
+            <div class="flex justify-between items-center px-4 mt-4">
+              <h2 class="col-span-6">Indonesian Made Lighting</h2>
+              <img
+                src="/common/ic-arrow-down.svg"
+                alt="arrow-down"
+                class="col-span-1"
+              />
+            </div>
+            <hr class="border-gray-800 rounded-full" />
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
+
+  <Footer />
+
 </template>
+

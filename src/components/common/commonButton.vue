@@ -1,6 +1,6 @@
 <template>
   <div
-    class="px-4 py-3 bg-primary flex items-center gap-x-4"
+    class="px-4 py-3 bg-primary flex justify-between items-center gap-x-4 hover:cursor-pointer hover:bg-dark-primary transition-colors"
     :class="customClass"
   >
     <p class="text-white">{{ text }}</p>
