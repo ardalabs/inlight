@@ -1,5 +1,7 @@
+<script setup>
+import commonButton from "../common/commonButton.vue";
+</script>
 <template>
-  <!-- footer section -->
   <div>
     <div
       class="mt-24 max-w-sm m-auto bg-footer h-[50vh] flex flex-col justify-end items-center"
