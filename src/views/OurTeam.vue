@@ -2,14 +2,16 @@
 import ElementBackground from "../components/common/ElementBackground.vue";
 import OurTeamCard from "../components/ourTeam/OurTeamCard.vue";
 import Footer from "../components/common/Footer.vue";
+import NavBar from "../components/common/NavBar/NavBar.vue";
 </script>
 
 <template>
-  <div class="relatie max-w-sm sm:max-w-md m-auto my-12">
+  <NavBar />
+  <div class="relatie max-w-sm sm:max-w-md m-auto mt-20">
     <ElementBackground />
     <div>
       <h2 class="leading-tight">About The Team Indonesia Timber Lighting</h2>
-      <p class="text-gray-500 opacity-80 mt-4">Inlight Lighting consists of a team of makers and designers based in Currumbin, Queensland. We design and craft bespoke timber lighting with a growing collection of pendant and wall light designs. We have been crafting our timber pendants since 2018 and look forward to continuing to offer the highest quality timber lighting.</p>
+      <p class="text-gray-500 opacity-80 my-4 mb-12">Inlight Lighting consists of a team of makers and designers based in Currumbin, Queensland. We design and craft bespoke timber lighting with a growing collection of pendant and wall light designs. We have been crafting our timber pendants since 2018 and look forward to continuing to offer the highest quality timber lighting.</p>
     </div>
   </div>
   <img src="/ourTeam/ourteam.png" alt="our team">

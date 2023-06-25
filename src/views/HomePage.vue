@@ -4,10 +4,12 @@ import commonButton from "../components/common/commonButton.vue";
 import ProductCard from "../components/common/ProductCard.vue";
 import TestimonialCard from "../components/common/TestimonialCard.vue";
 import Footer from "../components/common/Footer.vue";
+import NavBar from "../components/common/NavBar/NavBar.vue";
 </script>
 
 <template>
-  <div class="relatie max-w-sm sm:max-w-md m-auto my-12">
+  <NavBar />
+  <div class="relatie max-w-sm sm:max-w-md m-auto mt-20">
     <ElementBackground />
 
     <!-- hero section -->
