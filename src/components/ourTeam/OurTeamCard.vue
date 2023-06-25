@@ -1,6 +1,6 @@
 <template>
-  <div class="mt-4 mb-20 px-10">
-    <img :src="img" alt="team" />
+  <div class="mt-4 mb-16 px-10 sm:px-16 md:px-28">
+    <img :src="img" alt="team" class="object-cover w-full" />
     <h4 class="font-semibold mt-4">{{ peopleName }}</h4>
     <h5 class="text-gray-500">{{ peoplePosition }}</h5>
     <div class="flex justify-end mt-4">

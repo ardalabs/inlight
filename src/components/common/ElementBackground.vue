@@ -2,6 +2,17 @@
   <img
     src="/common/element-bg.png"
     alt="background element"
-    class="absolute -left-14 -z-10 xl:w-1/3 2xl:-left-20"
+    class="absolute -z-10 xl:w-1/3"
+    :class="[
+      position === 'left' ? '-left-14' : '-right-14 transform rotate-180',
+    ]"
   />
 </template>
+
+<script>
+export default {
+  props: {
+    position: String,
+  },
+};
+</script>

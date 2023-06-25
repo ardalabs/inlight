@@ -4,13 +4,13 @@ import NavBarItem from "./NavBarItem.vue";
 
 <template>
   <div class="top-0 absolute">
-    <div class="block lg:hidden">
+    <div class="block xl:hidden">
       <div class="w-full fixed z-50">
         <nav :class="navbarClasses">
-          <div class="flex justify-between items-center px-12 py-5">
+          <div class="flex justify-between items-center px-12 py-5 lg:px-32">
             <div class="w-1/2">
               <a href="/#home">
-                <img src="/light-inlight.png" alt="Logo" class="w-20" />
+                <img src="/light-inlight.png" alt="Logo" class="w-20 lg:w-28" />
               </a>
             </div>
             <div class="w-1/2 flex justify-end" @click="toggleDrawer()">
@@ -41,13 +41,13 @@ import NavBarItem from "./NavBarItem.vue";
     </div>
 
     <!-- lg screen -->
-    <div class="hidden lg:block">
+    <div class="hidden xl:block">
       <div class="fixed w-full z-50">
         <nav :class="navbarClasses">
           <div class="flex items-center justify-between px-28 xl:py-8 lg:py-4">
             <div class="w-1/10">
               <a href="/#home">
-                <img src="/logo.svg" alt="Logo" class="w-2/3" />
+                <!-- <img src="/logo.svg" alt="Logo" class="w-2/3" /> -->
               </a>
             </div>
             <div class="w-8/10">
@@ -57,7 +57,7 @@ import NavBarItem from "./NavBarItem.vue";
                 <p
                   class="hover:text-pink-700 hover:underline hover:underline-offset-8 text-sm lg:text-md xl:text-lg 2xl:text-xl transition-all"
                 >
-                  <a href="/#about">About</a>
+                  <a href="/#about">Aboutw-80</a>
                 </p>
                 <p
                   class="hover:text-pink-700 hover:underline hover:underline-offset-8 text-sm lg:text-md xl:text-lg 2xl:text-xl transition-all"

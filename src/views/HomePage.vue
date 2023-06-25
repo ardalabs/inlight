@@ -9,8 +9,8 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
 
 <template>
   <NavBar />
-  <div class="relatie max-w-sm sm:max-w-md m-auto mt-20">
-    <ElementBackground />
+  <div class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] m-auto mt-20 lg:mt-28">
+    <ElementBackground position="left"/>
 
     <!-- hero section -->
     <div class="z-50">
@@ -32,7 +32,7 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
           </div>
         </div>
       </div>
-      <div class="mt-14">
+      <div class="mt-14 flex justify-end">
         <img src="/homePage/hero.png" alt="hero" />
       </div>
     </div>
@@ -55,12 +55,12 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
         </p>
       </div>
       <div class="mt-6">
-        <img src="/homePage/hero2.png" alt="wooden pict" class="" />
+        <img src="/homePage/hero2.png" alt="wooden pict" class="md:w-3/4" />
       </div>
     </div>
 
     <!-- about us section -->
-    <div class="mt-16">
+    <div class="mt-16 lg:mt-24">
       <div>
         <h1>About Us</h1>
         <h5 class="text-gray-500 mt-2">
@@ -74,12 +74,12 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
         <commonButton text="Read More" customClass="w-44 mt-4" />
       </div>
       <div class="mt-8">
-        <img src="/homePage/about-us.png" alt="about us" />
+        <img src="/homePage/about-us.png" alt="about us" class="w-full"/>
       </div>
     </div>
 
     <!-- featured section -->
-    <div class="mt-16">
+    <div class="mt-16 lg:mt-24">
       <div class="flex justify-between items-center mb-8">
         <h2 class="leading-tight">Featured Lighting</h2>
         <commonButton text="View All" />
@@ -152,8 +152,8 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
     </div>
 
     <!-- testimonial section -->
-    <div class="mt-16">
-      <ElementBackground />
+    <div class="mt-16 lg:mt-24">
+      <ElementBackground position="right" />
       <h3 class="font-semibold mb-8 text-center">Our Clients Testimonials</h3>
       <div class="carousel w-full">
         <div id="testimonial1" class="carousel-item relative w-full">
@@ -226,7 +226,7 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
     </div>
 
     <!-- our collection section -->
-    <div class="mt-16">
+    <div class="mt-16 lg:mt-24">
       <h2 class="mb-8">Our Collection</h2>
       <div class="carousel w-full">
         <div id="collection1" class="carousel-item relative w-full">
@@ -296,10 +296,10 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
     </div>
 
     <!-- value section -->
-    <div class="mt-16">
+    <div class="mt-16 lg:mt-24">
       <h1>Our Value</h1>
       <div class="mt-8">
-        <img src="/homePage/value.png" alt="value pict" />
+        <img src="/homePage/value.png" alt="value pict" class="w-full" />
         <div class="mt-8">
           <div>
             <div class="flex justify-between items-center px-4" mt-4>
