@@ -11,12 +11,12 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
     <ElementBackground />
     <div>
       <h2 class="leading-tight">About The Team Indonesia Timber Lighting</h2>
-      <p class="text-gray-500 opacity-80 my-4 mb-12">Inlight Lighting consists of a team of makers and designers based in Currumbin, Queensland. We design and craft bespoke timber lighting with a growing collection of pendant and wall light designs. We have been crafting our timber pendants since 2018 and look forward to continuing to offer the highest quality timber lighting.</p>
+      <p class="text-gray-500 opacity-80 my-4">Inlight Lighting consists of a team of makers and designers based in Currumbin, Queensland. We design and craft bespoke timber lighting with a growing collection of pendant and wall light designs. We have been crafting our timber pendants since 2018 and look forward to continuing to offer the highest quality timber lighting.</p>
     </div>
   </div>
-  <img src="/ourTeam/ourteam.png" alt="our team">
+  <img src="/ourTeam/ourteam.png" alt="our team" class="mt-16">
 
-  <div class="relatie max-w-sm sm:max-w-md m-auto my-12">
+  <div class="relatie max-w-sm sm:max-w-md m-auto mt-16">
     <p class="text-gray-500">Our pendants are unique to the market, offering bespoke options and high-quality craftsmanship. Our lighting range is designed to suit both residential and commercial projects and can be customised to complement many interior styles and budgets.</p>
     <p class="text-gray-500 mt-6">Our design office and dedicated electrical workshop are located in Currumbin, Queensland. It is important to us to support other Australian businesses, so we have partnered with a select group of makers across Queensland and New South Wales who support us in crafting the timber for our pendants and creating our custom finishings. We are a registered Australian Made Campaign business.</p>
 
