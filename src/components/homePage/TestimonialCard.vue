@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center">
+  <div class="text-center block w-full">
     <div class="flex items-center justify-center space-x-3">
       <img :src="img" alt="customer" />
       <div>

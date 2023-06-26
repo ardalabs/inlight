@@ -4,7 +4,9 @@
     alt="background element"
     class="absolute -z-10 xl:w-1/3"
     :class="[
-      position === 'left' ? '-left-14' : '-right-14 transform rotate-180',
+      position === 'left'
+        ? '-left-14 xl:left-0'
+        : '-right-14 xl:right-0 transform rotate-180',
     ]"
   />
 </template>

@@ -2,44 +2,51 @@
 import ElementBackground from "../components/common/ElementBackground.vue";
 import commonButton from "../components/common/commonButton.vue";
 import ProductCard from "../components/common/ProductCard.vue";
-import TestimonialCard from "../components/common/TestimonialCard.vue";
+import TestimonialCard from "../components/homePage/TestimonialCard.vue";
 import Footer from "../components/common/Footer.vue";
 import NavBar from "../components/common/NavBar/NavBar.vue";
+import Testimonial from "../components/homePage/Testimonial.vue";
 </script>
 
 <template>
   <NavBar />
-  <div class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] m-auto mt-20 lg:mt-28">
-    <ElementBackground position="left"/>
+  <div
+    class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] m-auto mt-20 lg:mt-28"
+  >
+    <ElementBackground position="left" />
 
     <!-- hero section -->
     <div class="z-50">
-      <div class="">
-        <h1 class="leading-tight">Indonesia Timber Lighting</h1>
-        <p class="text-gray-500 mt-2">
-          Offering a captivating array of timber-based lighting products that
-          illuminate any space with timeless elegance.
-        </p>
-        <div class="flex justify-start gap-x-6 items-center mt-6">
-          <commonButton text="Explore Now" />
-          <div class="px-4 py-3 hover:bg-slate-100 flex items-center gap-x-4">
-            <p class="">Our Collection</p>
-            <img
-              src="/common/ic-arrow-right.svg"
-              alt="Arrow Right"
-              class="w-6"
-            />
+      <div class="xl:grid xl:grid-cols-2 xl:gap-x-10">
+        <div class="flex flex-col justify-center">
+          <h1 class="leading-tight">Indonesia Timber Lighting</h1>
+          <p class="text-gray-500 mt-2">
+            Offering a captivating array of timber-based lighting products that
+            illuminate any space with timeless elegance.
+          </p>
+          <div class="flex justify-start gap-x-6 items-center mt-6">
+            <commonButton text="Explore Now" />
+            <div class="px-4 py-3 hover:bg-slate-100 flex items-center gap-x-4">
+              <p class="">Our Collection</p>
+              <img
+                src="/common/ic-arrow-right.svg"
+                alt="Arrow Right"
+                class="w-6"
+              />
+            </div>
           </div>
         </div>
-      </div>
-      <div class="mt-14 flex justify-end">
-        <img src="/homePage/hero.png" alt="hero" />
+        <div class="mt-14 flex justify-end">
+          <img src="/homePage/hero.png" alt="hero" />
+        </div>
       </div>
     </div>
 
     <!-- second section -->
-    <div class="mt-16">
-      <div>
+    <div
+      class="mt-16 xl:mt-32 xl:flex xl:flex-row-reverse xl:items-center xl:gap-x-10"
+    >
+      <div class="xl:w-1/2">
         <h3 class="leading-tight">
           We craft contemporary and high quality
           <span class="text-primary font-semibold">Indonesian</span> Made
@@ -54,14 +61,18 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
           woodworking techniques.
         </p>
       </div>
-      <div class="mt-6">
-        <img src="/homePage/hero2.png" alt="wooden pict" class="md:w-3/4" />
+      <div class="mt-6 xl:mt-0 xl:w-1/2">
+        <img
+          src="/homePage/hero2.png"
+          alt="wooden pict"
+          class="md:w-3/4 xl:w-full"
+        />
       </div>
     </div>
 
     <!-- about us section -->
-    <div class="mt-16 lg:mt-24">
-      <div>
+    <div class="mt-16 lg:mt-24 xl:mt-32 xl:grid xl:grid-cols-2 xl:gap-x-10">
+      <div class="flex flex-col justify-center">
         <h1>About Us</h1>
         <h5 class="text-gray-500 mt-2">
           Fluxwood is a family-owned business consisting of a small team of
@@ -74,12 +85,12 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
         <commonButton text="Read More" customClass="w-44 mt-4" />
       </div>
       <div class="mt-8">
-        <img src="/homePage/about-us.png" alt="about us" class="w-full"/>
+        <img src="/homePage/about-us.png" alt="about us" class="w-full" />
       </div>
     </div>
 
     <!-- featured section -->
-    <div class="mt-16 lg:mt-24">
+    <div class="mt-16 lg:mt-24 xl:mt-32">
       <div class="flex justify-between items-center mb-8">
         <h2 class="leading-tight">Featured Lighting</h2>
         <commonButton text="View All" />
@@ -152,9 +163,13 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
     </div>
 
     <!-- testimonial section -->
-    <div class="mt-16 lg:mt-24">
+    <div class="mt-16 lg:mt-24 xl:mt-32">
       <ElementBackground position="right" />
       <h3 class="font-semibold mb-8 text-center">Our Clients Testimonials</h3>
+      <Testimonial />
+    </div>
+    <!-- <div class="mt-16 lg:mt-24 xl:mt-32">
+      <ElementBackground position="right" />
       <div class="carousel w-full">
         <div id="testimonial1" class="carousel-item relative w-full">
           <TestimonialCard
@@ -223,10 +238,10 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- our collection section -->
-    <div class="mt-16 lg:mt-24">
+    <div class="mt-16 lg:mt-24 xl:mt-32">
       <h2 class="mb-8">Our Collection</h2>
       <div class="carousel w-full">
         <div id="collection1" class="carousel-item relative w-full">
@@ -296,11 +311,11 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
     </div>
 
     <!-- value section -->
-    <div class="mt-16 lg:mt-24">
-      <h1>Our Value</h1>
-      <div class="mt-8">
+    <div class="mt-16 lg:mt-24 xl:mt-32">
+      <h1>Our Values</h1>
+      <div class="mt-8 xl:grid xl:grid-cols-2 xl:gap-x-10">
         <img src="/homePage/value.png" alt="value pict" class="w-full" />
-        <div class="mt-8">
+        <div class="mt-8 flex flex-col justify-center">
           <div>
             <div class="flex justify-between items-center px-4" mt-4>
               <h4 class="col-span-6">Authentic Design</h4>
@@ -340,6 +355,4 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
   </div>
 
   <Footer />
-
 </template>
-
