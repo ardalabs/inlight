@@ -165,7 +165,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <!-- testimonial section -->
     <div class="mt-16 lg:mt-24 xl:mt-32">
       <ElementBackground position="right" />
-      <h3 class="font-semibold mb-8 text-center">Our Clients Testimonials</h3>
+      <h3 class="font-semibold mb-8 xl:mb-16 text-center">Our Clients Testimonials</h3>
       <Testimonial />
     </div>
     <!-- <div class="mt-16 lg:mt-24 xl:mt-32">
