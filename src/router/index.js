@@ -9,36 +9,36 @@ const routes = [
   {
     path: "/",
     name: "HomePage",
-    component: HomePage
+    component: HomePage,
   },
   {
     path: "/our-team",
     name: "OurTeam",
-    component: OurTeam
+    component: OurTeam,
   },
   {
     path: "/collections",
     name: "Collections",
-    component: Collections
+    component: Collections,
   },
   {
     path: "/contact-us",
     name: "ContactUs",
-    component: ContactUs
+    component: ContactUs,
   },
   {
     path: "/projects",
     name: "Projects",
-    component: Projects
-  }
-]
+    component: Projects,
+  },
+];
 
 const router = createRouter({
   history: createWebHistory(),
   routes,
   scrollBehavior() {
-    return { top: 0, left: 0 }
-  }
-})
+    return { top: 0, left: 0 };
+  },
+});
 
 export default router;

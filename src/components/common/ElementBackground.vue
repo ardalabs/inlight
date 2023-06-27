@@ -6,7 +6,7 @@
     :class="[
       position === 'left'
         ? '-left-14 xl:left-0'
-        : '-right-14 xl:right-0 transform rotate-180',
+        : '-right-14 rotate-180 transform xl:right-0',
     ]"
   />
 </template>

@@ -11,7 +11,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
 <template>
   <NavBar />
   <div
-    class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] 2xl:max-w-[1200px] m-auto mt-20 lg:mt-28"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 xl:max-w-[1000px] 2xl:max-w-[1200px]"
   >
     <ElementBackground position="left" />
 
@@ -20,13 +20,13 @@ import Testimonial from "../components/homePage/Testimonial.vue";
       <div class="xl:grid xl:grid-cols-2 xl:gap-x-10">
         <div class="flex flex-col justify-center">
           <h1 class="leading-tight">Indonesia Timber Lighting</h1>
-          <p class="text-gray-500 mt-2">
+          <p class="mt-2 text-gray-500">
             Offering a captivating array of timber-based lighting products that
             illuminate any space with timeless elegance.
           </p>
-          <div class="flex justify-start gap-x-6 items-center mt-6">
+          <div class="mt-6 flex items-center justify-start gap-x-6">
             <commonButton text="Explore Now" />
-            <div class="px-4 py-3 hover:bg-slate-100 flex items-center gap-x-4">
+            <div class="flex items-center gap-x-4 px-4 py-3 hover:bg-slate-100">
               <p class="">Our Collection</p>
               <img
                 src="/common/ic-arrow-right.svg"
@@ -49,11 +49,11 @@ import Testimonial from "../components/homePage/Testimonial.vue";
       <div class="xl:w-1/2">
         <h3 class="leading-tight">
           We craft contemporary and high quality
-          <span class="text-primary font-semibold">Indonesian</span> Made
-          <span class="text-primary font-semibold">timber lighting</span>
+          <span class="font-semibold text-primary">Indonesian</span> Made
+          <span class="font-semibold text-primary">timber lighting</span>
           pieces.
         </h3>
-        <p class="text-gray-500 mt-4">
+        <p class="mt-4 text-gray-500">
           We craft thoughtfully Indonesian Made lighting from beautiful, locally
           sourced solid timber. We have been working with timber for over 35
           years and our small team of designers and woodworkers love to craft
@@ -74,7 +74,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <div class="mt-16 lg:mt-24 xl:mt-32 xl:grid xl:grid-cols-2 xl:gap-x-10">
       <div class="flex flex-col justify-center">
         <h1>About Us</h1>
-        <h5 class="text-gray-500 mt-2">
+        <h5 class="mt-2 text-gray-500">
           Fluxwood is a family-owned business consisting of a small team of
           craftspeople and designers. Our design studio, timber and electrical
           workshops are located in Currumbin, Queensland. We are proud to
@@ -91,7 +91,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
 
     <!-- featured section -->
     <div class="mt-16 lg:mt-24 xl:mt-32">
-      <div class="flex justify-between items-center mb-8">
+      <div class="mb-8 flex items-center justify-between">
         <h2 class="leading-tight">Featured Lighting</h2>
         <commonButton text="View All" />
       </div>
@@ -123,7 +123,9 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <!-- testimonial section -->
     <div class="mt-16 lg:mt-24 xl:mt-32">
       <ElementBackground position="right" />
-      <h3 class="font-semibold mb-8 xl:mb-16 text-center">Our Clients Testimonials</h3>
+      <h3 class="mb-8 text-center font-semibold xl:mb-16">
+        Our Clients Testimonials
+      </h3>
       <Testimonial />
     </div>
 
@@ -162,7 +164,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
         <img src="/homePage/value.png" alt="value pict" class="w-full" />
         <div class="mt-8 flex flex-col justify-center">
           <div>
-            <div class="flex justify-between items-center px-4" mt-4>
+            <div class="flex items-center justify-between px-4" mt-4>
               <h4 class="col-span-6">Authentic Design</h4>
               <img
                 src="/common/ic-arrow-down.svg"
@@ -170,10 +172,10 @@ import Testimonial from "../components/homePage/Testimonial.vue";
                 class="col-span-1"
               />
             </div>
-            <hr class="border-gray-800 rounded-full" />
+            <hr class="rounded-full border-gray-800" />
           </div>
           <div>
-            <div class="flex justify-between items-center px-4 mt-4">
+            <div class="mt-4 flex items-center justify-between px-4">
               <h4 class="col-span-6">Quality Solid Timber Lighting</h4>
               <img
                 src="/common/ic-arrow-down.svg"
@@ -181,10 +183,10 @@ import Testimonial from "../components/homePage/Testimonial.vue";
                 class="col-span-1"
               />
             </div>
-            <hr class="border-gray-800 rounded-full" />
+            <hr class="rounded-full border-gray-800" />
           </div>
           <div>
-            <div class="flex justify-between items-center px-4 mt-4">
+            <div class="mt-4 flex items-center justify-between px-4">
               <h4 class="col-span-6">Indonesian Made Lighting</h4>
               <img
                 src="/common/ic-arrow-down.svg"
@@ -192,7 +194,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
                 class="col-span-1"
               />
             </div>
-            <hr class="border-gray-800 rounded-full" />
+            <hr class="rounded-full border-gray-800" />
           </div>
         </div>
       </div>

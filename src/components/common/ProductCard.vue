@@ -1,10 +1,12 @@
 <template>
   <div :class="customClass" class="m-auto">
-    <img :src="img" alt="featured" class="w-full mb-4" />
+    <img :src="img" alt="featured" class="mb-4 w-full" />
     <h4>{{ title }}</h4>
-    <div class="flex justify-between items-center mt-2">
-      <h5 class="text-primary font-semibold">${{ price }}</h5>
-      <div class="bg-white border py-1 px-4 border-black rounded-full hover:bg-black hover:text-white hover:cursor-pointer transition-all">
+    <div class="mt-2 flex items-center justify-between">
+      <h5 class="font-semibold text-primary">${{ price }}</h5>
+      <div
+        class="rounded-full border border-black bg-white px-4 py-1 transition-all hover:cursor-pointer hover:bg-black hover:text-white"
+      >
         <p class="font-light">Learn More</p>
       </div>
     </div>

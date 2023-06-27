@@ -7,7 +7,7 @@ import Footer from "../components/common/Footer.vue";
 <template>
   <NavBar />
   <div
-    class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[800px] xl:max-w-[1000px] 2xl:max-w-[1200px] m-auto mt-20 lg:mt-28"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 lg:max-w-[800px] xl:max-w-[1000px] 2xl:max-w-[1200px]"
   >
     <ElementBackground position="left" />
     <div class="">
@@ -18,53 +18,53 @@ import Footer from "../components/common/Footer.vue";
       </p>
     </div>
 
-    <div class="lg:grid lg:grid-cols-2 lg:gap-x-10">
+    <div class="lg:grid lg:grid-cols-2 lg:gap-x-10 xl:mt-12 2xl:mt-20">
       <div class="mt-8">
         <div class="w-full">
           <label class="label">
-            <span class="label-text text-black font-semibold">Full Name</span>
+            <span class="label-text font-semibold text-black">Full Name</span>
           </label>
           <input
             type="text"
             placeholder="Revalina Putri"
-            class="input w-full bg-transparent border-primary border-opacity-50 mb-2"
+            class="input mb-2 w-full border-primary border-opacity-50 bg-transparent"
           />
         </div>
         <div class="w-full">
           <label class="label">
-            <span class="label-text text-black font-semibold">Email</span>
+            <span class="label-text font-semibold text-black">Email</span>
           </label>
           <input
             type="text"
             placeholder="revalinaaa11@gmail.com"
-            class="input w-full bg-transparent border-primary border-opacity-50 mb-2"
+            class="input mb-2 w-full border-primary border-opacity-50 bg-transparent"
           />
         </div>
         <div class="w-full">
           <label class="label">
-            <span class="label-text text-black font-semibold">Message</span>
+            <span class="label-text font-semibold text-black">Message</span>
           </label>
           <input
             type="text"
             placeholder="Tell us about inlight..."
-            class="input w-full bg-transparent border-primary border-opacity-50 mb-2"
+            class="input mb-2 w-full border-primary border-opacity-50 bg-transparent"
           />
         </div>
         <div class="w-full">
           <label class="label">
-            <span class="label-text text-black font-semibold"
+            <span class="label-text font-semibold text-black"
               >Your Postcode</span
             >
           </label>
           <input
             type="text"
             placeholder="Write your postcode here"
-            class="input w-full bg-transparent border-primary border-opacity-50 mb-2"
+            class="input mb-2 w-full border-primary border-opacity-50 bg-transparent"
           />
         </div>
         <div class="w-full">
           <label class="label">
-            <span class="label-text text-black font-semibold"
+            <span class="label-text font-semibold text-black"
               >How did you find us?</span
             >
           </label>
@@ -72,7 +72,7 @@ import Footer from "../components/common/Footer.vue";
             <label class="flex items-center">
               <input
                 type="checkbox"
-                class="checkbox checkbox-primary"
+                class="checkbox-primary checkbox"
                 name="find-us[]"
                 value="pinterest"
               />
@@ -81,7 +81,7 @@ import Footer from "../components/common/Footer.vue";
             <label class="flex items-center">
               <input
                 type="checkbox"
-                class="checkbox checkbox-primary"
+                class="checkbox-primary checkbox"
                 name="find-us[]"
                 value="instagram"
               />
@@ -90,7 +90,7 @@ import Footer from "../components/common/Footer.vue";
             <label class="flex items-center">
               <input
                 type="checkbox"
-                class="checkbox checkbox-primary"
+                class="checkbox-primary checkbox"
                 name="find-us[]"
                 value="web"
               />
@@ -99,7 +99,7 @@ import Footer from "../components/common/Footer.vue";
             <label class="flex items-center">
               <input
                 type="checkbox"
-                class="checkbox checkbox-primary"
+                class="checkbox-primary checkbox"
                 name="find-us[]"
                 value="other"
               />
@@ -114,7 +114,7 @@ import Footer from "../components/common/Footer.vue";
     </div>
 
     <div class="mt-16">
-      <p class="text-primary font-semibold">Our Locations</p>
+      <p class="font-semibold text-primary">Our Locations</p>
       <div class="lg:grid lg:grid-cols-2 lg:gap-x-3 xl:grid-cols-3 xl:gap-x-10">
         <div class="mt-4">
           <h2 class="font-semibold leading-tight">Visit Our Office</h2>
@@ -128,18 +128,18 @@ import Footer from "../components/common/Footer.vue";
           </p>
         </div>
         <div class="mt-8 xl:mt-4">
-          <div class="flex justify-start items-start gap-x-5">
+          <div class="flex items-start justify-start gap-x-5">
             <img src="/contactUs/ic-clock.svg" alt="clock" />
             <div>
               <h4 class="font-semibold">Office Hours</h4>
-              <p class="text-gray-500 mt-2">Mon-Fri 8:30am – 3:30pm</p>
+              <p class="mt-2 text-gray-500">Mon-Fri 8:30am – 3:30pm</p>
             </div>
           </div>
-          <div class="flex justify-start items-start gap-x-5 mt-4">
+          <div class="mt-4 flex items-start justify-start gap-x-5">
             <img src="/contactUs/ic-phone.svg" alt="phone" />
             <div>
               <h4 class="font-semibold">Phone Number</h4>
-              <p class="text-gray-500 mt-2">(+62) 963 1381 7391</p>
+              <p class="mt-2 text-gray-500">(+62) 963 1381 7391</p>
             </div>
           </div>
         </div>

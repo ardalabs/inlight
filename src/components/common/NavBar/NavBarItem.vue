@@ -2,7 +2,7 @@
   <div v-if="isMobileView === 'true'">
     <router-link :to="path" @click="toggleDrawer">
       <p
-        class="text-gray-500 hover:cursor-pointer hover:bg-black p-4 rounded-md hover:bg-opacity-90 hover:text-white transition-all"
+        class="rounded-md p-4 text-gray-500 transition-all hover:cursor-pointer hover:bg-black hover:bg-opacity-90 hover:text-white"
         :class="[
           this.$route.path === path
             ? 'bg-primary py-3 font-semibold text-white'
@@ -17,10 +17,10 @@
   <div v-if="isMobileView === 'false'">
     <router-link :to="path">
       <p
-        class="hover:cursor-pointer hover:text-black hover:font-semibold"
+        class="hover:cursor-pointer hover:font-semibold hover:text-black"
         :class="[
           this.$route.path === path
-            ? 'text-black font-semibold'
+            ? 'font-semibold text-black'
             : 'text-gray-500',
         ]"
       >

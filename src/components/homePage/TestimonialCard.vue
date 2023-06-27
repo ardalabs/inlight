@@ -1,10 +1,10 @@
 <template>
-  <div class="text-center block w-full">
+  <div class="block w-full text-center">
     <div class="flex items-center justify-center space-x-3">
       <img :src="img" alt="customer" />
       <div>
         <h4 class="font-semibold">{{ peopleName }}</h4>
-        <h4 class="text-gray-500 font-light">{{ peopleJob }}</h4>
+        <h4 class="font-light text-gray-500">{{ peopleJob }}</h4>
       </div>
     </div>
     <h5 class="mt-8">

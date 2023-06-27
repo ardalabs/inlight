@@ -3,18 +3,18 @@ import NavBarItem from "./NavBarItem.vue";
 </script>
 
 <template>
-  <div class="top-0 absolute">
+  <div class="absolute top-0">
     <!-- mobile and tab screen -->
     <div class="block xl:hidden">
-      <div class="w-full fixed z-50">
+      <div class="fixed z-50 w-full">
         <nav :class="navbarClasses">
-          <div class="flex justify-between items-center px-12 py-5 lg:px-32">
+          <div class="flex items-center justify-between px-12 py-5 lg:px-32">
             <div class="w-1/2">
               <a href="/#home">
                 <img src="/light-inlight.png" alt="Logo" class="w-20 lg:w-28" />
               </a>
             </div>
-            <div class="w-1/2 flex justify-end" @click="toggleDrawer()">
+            <div class="flex w-1/2 justify-end" @click="toggleDrawer()">
               <div class="w-6 hover:cursor-pointer">
                 <img src="/common/ic-menu.png" alt="menu" />
               </div>
@@ -25,18 +25,18 @@ import NavBarItem from "./NavBarItem.vue";
 
       <!-- canvas -->
       <div
-        class="bg-white w-80 h-full fixed z-50 px-10 py-4 transition-all ease-in"
+        class="fixed z-50 h-full w-80 bg-white px-10 py-4 transition-all ease-in"
         :class="isDrawerOpen ? 'visible-canvas' : 'hidden-canvas'"
       >
         <div class="flex flex-col gap-y-2 text-black">
           <div
-            class="hover:cursor-pointer flex justify-end"
+            class="flex justify-end hover:cursor-pointer"
             @click="toggleDrawer"
           >
             <img
               src="/common/ic-close.png"
               alt="close"
-              class="object-right mr-3 w-4 mt-3 mb-4"
+              class="mb-4 mr-3 mt-3 w-4 object-right"
             />
           </div>
           <NavBarItem path="/" text="Home" isMobileView="true" />
@@ -58,7 +58,7 @@ import NavBarItem from "./NavBarItem.vue";
 
     <!-- laptop screen -->
     <div class="hidden xl:block">
-      <div class="fixed w-full z-50">
+      <div class="fixed z-50 w-full">
         <nav :class="navbarClasses">
           <div class="flex items-center justify-between px-20 py-6 2xl:px-56">
             <div class="w-1/10">
@@ -67,7 +67,7 @@ import NavBarItem from "./NavBarItem.vue";
               </a>
             </div>
             <div class="w-9/10">
-              <div class="flex gap-x-8 items-center justify-end">
+              <div class="flex items-center justify-end gap-x-8">
                 <NavBarItem path="/" text="Home" isMobileView="false" />
                 <NavBarItem
                   path="/collections"
@@ -92,7 +92,7 @@ import NavBarItem from "./NavBarItem.vue";
                 <input
                   type="text"
                   placeholder="Search"
-                  class="input bg-slate-100 bg-opacity-50 w-1/5 rounded-md"
+                  class="input w-1/5 rounded-md bg-slate-100 bg-opacity-50"
                 />
                 <img src="/common/ic-shopping-bag.png" alt="shopping bag" />
               </div>
