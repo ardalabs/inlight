@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "img_thumbnail": "/db/ourWork/ourwork-1.png",
+      "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg"
+      ],
+      "product_name": "Sibling Table – Brass",
+      "product_price": "100",
+      "product_desc": "A solid hardwood lamp perfect for bedside tables, or anywhere within the home. The reflector cone is available in brushed brass with a natural finish or clear powder coat, or with colored powder coat options. The timber base is available in custom hardwood species or timber finishes for even more customization. Designed and made in Australia.",
+      "designed_by": "Ross Gardam",
+      "product_size": "H 400mm x W 200mm x D 200mm",
+      "lead_time": "6-8 weeks",
+      "lumens": "100",
+      "notes": "The Sibling Table is fitted with a 3-pin plug pack and in-line cord switch.",
+      "label": "Linear Pendants"
+    },
+    {
+      "id": "2",
+      "img_thumbnail": "/db/ourWork/ourwork-2.png",
+      "images": [
+        "https://example.com/image3.jpg",
+        "https://example.com/image4.jpg"
+      ],
+      "product_name": "Chair - Upholstered",
+      "product_price": "150",
+      "product_desc": "A comfortable and stylish upholstered chair suitable for any living space. It features high-quality fabric upholstery and sturdy wooden legs. Available in various colors and patterns.",
+      "designed_by": "Design Studio X",
+      "product_size": "H 800mm x W 600mm x D 700mm",
+      "lead_time": "4-6 weeks",
+      "notes": "Assembly required. Free shipping within the country.",
+      "label": "Linear Pendants"
+    },
+    {
+      "id": "3",
+      "img_thumbnail": "/db/ourWork/ourwork-3.png",
+      "images": [
+        "https://example.com/image5.jpg",
+        "https://example.com/image6.jpg"
+      ],
+      "product_name": "Sofa - Modern",
+      "product_price": "800",
+      "product_desc": "A modern and comfortable sofa for your living room. It features a sleek design with plush cushions and durable upholstery. Available in different sizes and colors.",
+      "designed_by": "Design Studio Y",
+      "product_size": "H 900mm x W 2000mm x D 1000mm",
+      "lead_time": "8-10 weeks",
+      "notes": "Includes free matching throw pillows. Delivery available in selected areas.",
+      "label": "Linear Pendants"
+    },
+    {
+      "id": "4",
+      "img_thumbnail": "/db/ourWork/ourwork-1.png",
+      "images": [
+        "https://example.com/image7.jpg",
+        "https://example.com/image8.jpg"
+      ],
+      "product_name": "Dining Table Set - Oak",
+      "product_price": "1200",
+      "product_desc": "A beautiful oak dining table set that adds elegance to your dining area. The set includes a sturdy table and matching chairs with comfortable upholstered seats. Perfect for family gatherings and entertaining guests.",
+      "designed_by": "Design Studio Z",
+      "product_size": "Table: H 750mm x W 1800mm x D 900mm, Chair: H 900mm x W 500mm x D 500mm",
+      "lead_time": "6-8 weeks",
+      "notes": "Some assembly required. Free shipping within the country.",
+      "label": "Pendant Light"
+    },
+    {
+      "id": "5",
+      "img_thumbnail": "/db/ourWork/ourwork-2.png",
+      "images": [
+        "https://example.com/image9.jpg",
+        "https://example.com/image10.jpg"
+      ],
+      "product_name": "Bookshelf - Industrial",
+      "product_price": "250",
+      "product_desc": "An industrial-style bookshelf with a sturdy metal frame and wooden shelves. It provides ample storage space for books, decor, and more. The perfect addition to your home office or living room.",
+      "designed_by": "Design Studio A",
+      "product_size": "H 1800mm x W 1000mm x D 300mm",
+      "lead_time": "4-6 weeks",
+      "notes": "Easy assembly required. Free shipping within the country.",
+      "label": "Wall Lights"
+    },
+    {
+      "id": "6",
+      "img_thumbnail": "/db/ourWork/ourwork-3.png",
+      "images": [
+        "https://example.com/image11.jpg",
+        "https://example.com/image12.jpg"
+      ],
+      "product_name": "Bed - Queen Size",
+      "product_price": "950",
+      "product_desc": "A comfortable and stylish queen-size bed with a durable wooden frame and upholstered headboard. It provides a cozy and relaxing sleeping experience. Mattress and bedding not included.",
+      "designed_by": "Design Studio B",
+      "product_size": "H 1200mm x W 1600mm x D 2000mm",
+      "lead_time": "8-10 weeks",
+      "notes": "Assembly required. Free shipping within the country.",
+      "label": "Pendant Light"
+    },
+    {
+      "id": "7",
+      "img_thumbnail": "/db/ourWork/ourwork-1.png",
+      "images": [
+        "https://example.com/image13.jpg",
+        "https://example.com/image14.jpg"
+      ],
+      "product_name": "Coffee Table - Glass",
+      "product_price": "300",
+      "product_desc": "A modern glass coffee table with a sleek design. It features a tempered glass top and a sturdy metal base. The perfect centerpiece for your living room.",
+      "designed_by": "Design Studio C",
+      "product_size": "H 400mm x W 1000mm x D 600mm",
+      "lead_time": "4-6 weeks",
+      "notes": "Free shipping within the country.",
+      "label": "Wall Lights"
+    },
+    {
+      "id": "8",
+      "img_thumbnail": "/db/ourWork/ourwork-2.png",
+      "images": [
+        "https://example.com/image15.jpg",
+        "https://example.com/image16.jpg"
+      ],
+      "product_name": "Wardrobe - Sliding Doors",
+      "product_price": "1500",
+      "product_desc": "A spacious wardrobe with sliding doors for easy access. It features multiple shelves, hanging rails, and drawers for organized storage. Available in different finishes and sizes.",
+      "designed_by": "Design Studio D",
+      "product_size": "H 2000mm x W 1800mm x D 600mm",
+      "lead_time": "6-8 weeks",
+      "notes": "Assembly required. Free shipping within the country.",
+      "label": "Wall Lights"
+    },
+    {
+      "id": "9",
+      "img_thumbnail": "/db/ourWork/ourwork-3.png",
+      "images": [
+        "https://example.com/image17.jpg",
+        "https://example.com/image18.jpg"
+      ],
+      "product_name": "Sideboard - Walnut",
+      "product_price": "850",
+      "product_desc": "A stylish walnut sideboard with ample storage space. It features multiple drawers and cabinets for storing dinnerware, table linens, and more. The perfect addition to your dining or living room.",
+      "designed_by": "Design Studio E",
+      "product_size": "H 800mm x W 1600mm x D 450mm",
+      "lead_time": "6-8 weeks",
+      "notes": "Free shipping within the country.",
+      "label": "Pendant Light"
+    },
+    {
+      "id": "10",
+      "img_thumbnail": "/db/ourWork/ourwork-1.png",
+      "images": [
+        "https://example.com/image19.jpg",
+        "https://example.com/image20.jpg"
+      ],
+      "product_name": "Desk - Scandinavian",
+      "product_price": "400",
+      "product_desc": "A sleek and minimalist desk with a Scandinavian design. It features a spacious work surface and storage compartments. Perfect for your home office or study.",
+      "designed_by": "Design Studio F",
+      "product_size": "H 750mm x W 1200mm x D 600mm",
+      "lead_time": "4-6 weeks",
+      "notes": "Assembly required. Free shipping within the country.",
+      "label": "Wall Lights"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ import Footer from "../components/common/Footer.vue";
     class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 lg:max-w-[800px] xl:max-w-[1000px] 2xl:max-w-[1200px]"
   >
     <ElementBackground position="left" />
-    <div class="">
+    <div class="xl:mt-40">
       <h2 class="leading-tight">Talk to us. We're here to help you</h2>
       <p class="mt-4 text-gray-500">
         Get in touch with our team, We look forward to helping you with your
