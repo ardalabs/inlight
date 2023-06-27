@@ -8,12 +8,12 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
 <template>
   <NavBar />
   <div
-    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 xl:mt-40 xl:max-w-[1000px] 2xl:max-w-[1200px]"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[980px] lg:mt-28 xl:mt-40 xl:max-w-[1000px] 2xl:max-w-[1200px]"
   >
     <ElementBackground position="left" />
-    <div class="z-50 xl:grid xl:grid-cols-2 xl:gap-x-10">
+    <div class="z-50 lg:grid lg:grid-cols-2 lg:gap-x-5 xl:gap-x-10">
       <h2 class="leading-tight">About The Team Indonesia Timber Lighting</h2>
-      <p class="my-4 text-gray-500 opacity-80 xl:my-0">
+      <p class="my-4 text-gray-500 opacity-80 lg:my-0">
         Inlight Lighting consists of a team of makers and designers based in
         Currumbin, Queensland. We design and craft bespoke timber lighting with
         a growing collection of pendant and wall light designs. We have been
@@ -29,16 +29,16 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
   />
 
   <div
-    class="relatie m-auto mt-16 max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] 2xl:max-w-[1200px]"
+    class="relatie m-auto mt-16 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[980px] xl:max-w-[1000px] 2xl:max-w-[1200px]"
   >
-    <div class="xl:grid xl:grid-cols-2 xl:gap-x-10">
+    <div class="lg:grid lg:grid-cols-2 lg:gap-x-10">
       <p class="text-gray-500">
         Our pendants are unique to the market, offering bespoke options and
         high-quality craftsmanship. Our lighting range is designed to suit both
         residential and commercial projects and can be customised to complement
         many interior styles and budgets.
       </p>
-      <p class="mt-6 text-gray-500 xl:mt-0">
+      <p class="mt-6 text-gray-500 lg:mt-0">
         Our design office and dedicated electrical workshop are located in
         Currumbin, Queensland. It is important to us to support other Australian
         businesses, so we have partnered with a select group of makers across
@@ -50,7 +50,7 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
 
     <div class="mt-16 lg:mt-24">
       <h2 class="text-center font-semibold">Meet Our Amazing Team</h2>
-      <div class="xl:grid xl:grid-cols-3 xl:gap-x-4">
+      <div class="lg:grid lg:grid-cols-2 xl:grid-cols-3 lg:gap-4 xl:gap-x-4">
         <OurTeamCard
           img="/ourTeam/team1.png"
           peopleName="Shari"
@@ -71,7 +71,7 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
 
     <div class="mt-16 lg:mt-24">
       <h2 class="font-semibold">Collaboration</h2>
-      <div class="xl:grid xl:grid-cols-2 xl:gap-x-10">
+      <div class="lg:grid lg:grid-cols-2 lg:gap-x-10">
         <div>
           <p class="mt-4 text-gray-500">
             Our products are sustainably crafted to be enduring and of the

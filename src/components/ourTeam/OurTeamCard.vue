@@ -1,5 +1,5 @@
 <template>
-  <div class="mb-16 mt-4 px-10 sm:px-16 md:px-28 xl:mb-0 xl:px-0">
+  <div class="mb-16 mt-4 px-10 sm:px-16 md:px-28 lg:mb-0 lg:px-12 xl:px-0">
     <img :src="img" alt="team" class="w-full object-cover" />
     <h4 class="mt-4 font-semibold">{{ peopleName }}</h4>
     <h5 class="text-gray-500">{{ peoplePosition }}</h5>

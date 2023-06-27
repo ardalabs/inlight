@@ -11,13 +11,13 @@ import Testimonial from "../components/homePage/Testimonial.vue";
 <template>
   <NavBar />
   <div
-    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 xl:max-w-[1000px] 2xl:max-w-[1200px]"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[950px] xl:mt-28 xl:max-w-[1000px] 2xl:max-w-[1200px]"
   >
     <ElementBackground position="left" />
 
     <!-- hero section -->
     <div class="z-50">
-      <div class="xl:grid xl:grid-cols-2 xl:gap-x-10">
+      <div class="lg:grid lg:grid-cols-2 lg:gap-x-10">
         <div class="flex flex-col justify-center">
           <h1 class="leading-tight">Indonesia Timber Lighting</h1>
           <p class="mt-2 text-gray-500">
@@ -44,9 +44,9 @@ import Testimonial from "../components/homePage/Testimonial.vue";
 
     <!-- second section -->
     <div
-      class="mt-16 xl:mt-32 xl:flex xl:flex-row-reverse xl:items-center xl:gap-x-10"
+      class="mt-16 xl:mt-32 lg:flex lg:flex-row-reverse lg:items-center lg:gap-x-10"
     >
-      <div class="xl:w-1/2">
+      <div class="lg:w-1/2">
         <h3 class="leading-tight">
           We craft contemporary and high quality
           <span class="font-semibold text-primary">Indonesian</span> Made
@@ -61,7 +61,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
           woodworking techniques.
         </p>
       </div>
-      <div class="mt-6 xl:mt-0 xl:w-1/2">
+      <div class="mt-6 lg:mt-0 lg:w-1/2">
         <img
           src="/homePage/hero2.png"
           alt="wooden pict"
@@ -71,7 +71,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     </div>
 
     <!-- about us section -->
-    <div class="mt-16 lg:mt-24 xl:mt-32 xl:grid xl:grid-cols-2 xl:gap-x-10">
+    <div class="mt-16 lg:mt-24 xl:mt-32 lg:grid lg:grid-cols-2 lg:gap-x-10">
       <div class="flex flex-col justify-center">
         <h1>About Us</h1>
         <h5 class="mt-2 text-gray-500">
@@ -160,7 +160,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <!-- value section -->
     <div class="mt-16 lg:mt-24 xl:mt-32">
       <h1>Our Values</h1>
-      <div class="mt-8 xl:grid xl:grid-cols-2 xl:gap-x-10">
+      <div class="mt-8 lg:grid lg:grid-cols-2 lg:gap-x-10">
         <img src="/homePage/value.png" alt="value pict" class="w-full" />
         <div class="mt-8 flex flex-col justify-center">
           <div>
