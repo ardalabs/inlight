@@ -96,7 +96,7 @@ export default {
   methods: {
     fetchData() {
       axios
-        .get("/public/db/ourWork.json")
+        .get("/db/ourWork.json")
         .then((resp) => {
           this.jsonData = resp.data.data;
         })
