@@ -95,69 +95,27 @@ import Testimonial from "../components/homePage/Testimonial.vue";
         <h2 class="leading-tight">Featured Lighting</h2>
         <commonButton text="View All" />
       </div>
-      <div class="carousel w-full">
-        <div id="featured1" class="carousel-item relative w-full">
+      <div class="carousel w-full gap-x-10">
+        <div class="carousel-item">
           <ProductCard
             img="/homePage/featured-1.png"
-            title="Silo Timber Sienco"
+            title="Silo Timber Sienco 1"
             price="98.0"
           />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
-          >
-            <a
-              href="#featured3"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#featured2"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
         </div>
-        <div id="featured2" class="carousel-item relative w-full">
+        <div class="carousel-item">
           <ProductCard
             img="/homePage/featured-1.png"
-            title="SIlo Timber Sienco"
+            title="Silo Timber Sienco 2"
             price="98.0"
           />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
-          >
-            <a
-              href="#featured1"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#featured3"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
         </div>
-        <div id="featured3" class="carousel-item relative w-full">
+        <div class="carousel-item">
           <ProductCard
             img="/homePage/featured-1.png"
-            title="SIlo Timber Sienco"
+            title="Silo Timber Sienco 3"
             price="98.0"
           />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
-          >
-            <a
-              href="#featured2"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#featured1"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
         </div>
       </div>
     </div>
@@ -168,144 +126,31 @@ import Testimonial from "../components/homePage/Testimonial.vue";
       <h3 class="font-semibold mb-8 xl:mb-16 text-center">Our Clients Testimonials</h3>
       <Testimonial />
     </div>
-    <!-- <div class="mt-16 lg:mt-24 xl:mt-32">
-      <ElementBackground position="right" />
-      <div class="carousel w-full">
-        <div id="testimonial1" class="carousel-item relative w-full">
-          <TestimonialCard
-            img="/homePage/cust-1.png"
-            peopleName="Rury Diwary"
-            peopleJob="Gamily Pshycian"
-            peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Fluxwood is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
-          />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-0 right-0 top-1/2"
-          >
-            <a
-              href="#testimonial3"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#testimonial2"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
-        </div>
-        <div id="testimonial2" class="carousel-item relative w-full">
-          <TestimonialCard
-            img="/homePage/cust-1.png"
-            peopleName="Rury Diwary"
-            peopleJob="Gamily Pshycian"
-            peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Fluxwood is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
-          />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-0 right-0 top-1/2"
-          >
-            <a
-              href="#testimonial1"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#testimonial3"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
-        </div>
-        <div id="testimonial3" class="carousel-item relative w-full">
-          <TestimonialCard
-            img="/homePage/cust-1.png"
-            peopleName="Rury Diwary"
-            peopleJob="Gamily Pshycian"
-            peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Fluxwood is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
-          />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-0 right-0 top-1/2"
-          >
-            <a
-              href="#testimonial2"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#testimonial1"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
-        </div>
-      </div>
-    </div> -->
 
     <!-- our collection section -->
     <div class="mt-16 lg:mt-24 xl:mt-32">
       <h2 class="mb-8">Our Collection</h2>
-      <div class="carousel w-full">
-        <div id="collection1" class="carousel-item relative w-full">
+      <div class="carousel w-full gap-x-10">
+        <div class="carousel-item">
           <ProductCard
             img="/homePage/collection-1.png"
             title="Silo Timber Sienco"
             price="98.0"
           />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
-          >
-            <a
-              href="#collection3"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#collection2"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
         </div>
-        <div id="collection2" class="carousel-item relative w-full">
+        <div class="carousel-item">
           <ProductCard
             img="/homePage/collection-1.png"
-            title="SIlo Timber Sienco"
+            title="Silo Timber Sienco"
             price="98.0"
           />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
-          >
-            <a
-              href="#collection1"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#collection3"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
         </div>
-        <div id="collection3" class="carousel-item relative w-full">
+        <div class="carousel-item">
           <ProductCard
             img="/homePage/collection-1.png"
-            title="SIlo Timber Sienco"
+            title="Silo Timber Sienco"
             price="98.0"
           />
-          <div
-            class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
-          >
-            <a
-              href="#collection2"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❮</a
-            >
-            <a
-              href="#collection1"
-              class="bg-primary bg-opacity-50 py-3 px-3 text-center text-black"
-              >❯</a
-            >
-          </div>
         </div>
       </div>
     </div>
