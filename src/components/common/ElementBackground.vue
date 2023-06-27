@@ -2,7 +2,7 @@
   <img
     src="/common/element-bg.png"
     alt="background element"
-    class="absolute -z-10 xl:w-1/3"
+    class="absolute -z-10 xl:w-1/3 2xl:w-1/2"
     :class="[
       position === 'left'
         ? '-left-14 xl:left-0'
