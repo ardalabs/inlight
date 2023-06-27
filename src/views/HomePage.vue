@@ -74,14 +74,14 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <div class="mt-16 lg:mt-24 xl:mt-32 lg:grid lg:grid-cols-2 lg:gap-x-10">
       <div class="flex flex-col justify-center">
         <h1>About Us</h1>
-        <h5 class="mt-2 text-gray-500">
+        <p class="mt-2 text-gray-500">
           Fluxwood is a family-owned business consisting of a small team of
           craftspeople and designers. Our design studio, timber and electrical
           workshops are located in Currumbin, Queensland. We are proud to
           collaborate with other local skilled makers across Queensland who
           contribute to crafting the high quality components for our timber
           lighting range
-        </h5>
+        </p>
         <commonButton text="Read More" customClass="w-44 mt-4" />
       </div>
       <div class="mt-8">

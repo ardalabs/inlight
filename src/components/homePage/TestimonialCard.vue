@@ -7,9 +7,9 @@
         <h4 class="font-light text-gray-500">{{ peopleJob }}</h4>
       </div>
     </div>
-    <h5 class="mt-8">
+    <p class="mt-8">
       {{ peopleTestimony }}
-    </h5>
+    </p>
   </div>
 </template>
 
