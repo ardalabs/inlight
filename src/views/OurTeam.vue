@@ -8,7 +8,7 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
 <template>
   <NavBar />
   <div
-    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[980px] lg:mt-28 xl:mt-40 xl:max-w-[1000px] 2xl:max-w-[1200px]"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 lg:max-w-[980px] xl:mt-40 xl:max-w-[1200px] 2xl:max-w-[1400px]"
   >
     <ElementBackground position="left" />
     <div class="z-50 lg:grid lg:grid-cols-2 lg:gap-x-5 xl:gap-x-10">
@@ -29,7 +29,7 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
   />
 
   <div
-    class="relatie m-auto mt-16 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[980px] xl:max-w-[1000px] 2xl:max-w-[1200px]"
+    class="relatie m-auto mt-16 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[980px] xl:max-w-[1200px] 2xl:max-w-[1400px]"
   >
     <div class="lg:grid lg:grid-cols-2 lg:gap-x-10">
       <p class="text-gray-500">
@@ -50,7 +50,7 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
 
     <div class="mt-16 lg:mt-24">
       <h2 class="text-center font-semibold">Meet Our Amazing Team</h2>
-      <div class="lg:grid lg:grid-cols-2 xl:grid-cols-3 lg:gap-4 xl:gap-x-4">
+      <div class="lg:grid lg:grid-cols-2 lg:gap-4 xl:grid-cols-3 xl:gap-x-4">
         <OurTeamCard
           img="/ourTeam/team1.png"
           peopleName="Shari"

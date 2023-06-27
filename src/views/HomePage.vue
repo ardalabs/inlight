@@ -2,7 +2,6 @@
 import ElementBackground from "../components/common/ElementBackground.vue";
 import commonButton from "../components/common/commonButton.vue";
 import ProductCard from "../components/common/ProductCard.vue";
-import TestimonialCard from "../components/homePage/TestimonialCard.vue";
 import Footer from "../components/common/Footer.vue";
 import NavBar from "../components/common/NavBar/NavBar.vue";
 import Testimonial from "../components/homePage/Testimonial.vue";
@@ -11,7 +10,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
 <template>
   <NavBar />
   <div
-    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[950px] xl:mt-28 xl:max-w-[1000px] 2xl:max-w-[1200px]"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[950px] xl:mt-28 xl:max-w-[1200px] 2xl:max-w-[1400px]"
   >
     <ElementBackground position="left" />
 
@@ -44,7 +43,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
 
     <!-- second section -->
     <div
-      class="mt-16 xl:mt-32 lg:flex lg:flex-row-reverse lg:items-center lg:gap-x-10"
+      class="mt-16 lg:flex lg:flex-row-reverse lg:items-center lg:gap-x-10 xl:mt-32"
     >
       <div class="lg:w-1/2">
         <h3 class="leading-tight">
@@ -71,7 +70,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     </div>
 
     <!-- about us section -->
-    <div class="mt-16 lg:mt-24 xl:mt-32 lg:grid lg:grid-cols-2 lg:gap-x-10">
+    <div class="mt-16 lg:mt-24 lg:grid lg:grid-cols-2 lg:gap-x-10 xl:mt-32">
       <div class="flex flex-col justify-center">
         <h1>About Us</h1>
         <p class="mt-2 text-gray-500">
@@ -117,6 +116,27 @@ import Testimonial from "../components/homePage/Testimonial.vue";
             price="98.0"
           />
         </div>
+        <div class="carousel-item">
+          <ProductCard
+            img="/homePage/featured-1.png"
+            title="Silo Timber Sienco 3"
+            price="98.0"
+          />
+        </div>
+        <div class="carousel-item">
+          <ProductCard
+            img="/homePage/featured-1.png"
+            title="Silo Timber Sienco 3"
+            price="98.0"
+          />
+        </div>
+        <div class="carousel-item">
+          <ProductCard
+            img="/homePage/featured-1.png"
+            title="Silo Timber Sienco 3"
+            price="98.0"
+          />
+        </div>
       </div>
     </div>
 
@@ -133,6 +153,27 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <div class="mt-16 lg:mt-24 xl:mt-32">
       <h2 class="mb-8">Our Collection</h2>
       <div class="carousel w-full gap-x-10">
+        <div class="carousel-item">
+          <ProductCard
+            img="/homePage/collection-1.png"
+            title="Silo Timber Sienco"
+            price="98.0"
+          />
+        </div>
+        <div class="carousel-item">
+          <ProductCard
+            img="/homePage/collection-1.png"
+            title="Silo Timber Sienco"
+            price="98.0"
+          />
+        </div>
+        <div class="carousel-item">
+          <ProductCard
+            img="/homePage/collection-1.png"
+            title="Silo Timber Sienco"
+            price="98.0"
+          />
+        </div>
         <div class="carousel-item">
           <ProductCard
             img="/homePage/collection-1.png"

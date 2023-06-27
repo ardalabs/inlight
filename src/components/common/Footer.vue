@@ -4,17 +4,17 @@ import commonButton from "../common/commonButton.vue";
 <template>
   <div class="m-auto">
     <div
-      class="m-auto mt-24 flex h-[50vh] max-w-sm flex-col items-center justify-end bg-footer sm:max-w-[540px] md:max-w-[668px] lg:max-w-[950px] xl:max-w-[1000px] 2xl:mt-32 2xl:max-w-[1200px]"
+      class="m-auto mt-24 flex h-[50vh] max-w-sm flex-col items-center justify-end bg-footer sm:max-w-[540px] md:max-w-[668px] lg:max-w-[950px] xl:max-w-[1200px] 2xl:mt-32 2xl:max-w-[1400px]"
     >
       <div class="mb-20">
         <h2 class="text-center font-medium text-white">Choose Your Best One</h2>
-        <commonButton text="Shop Now" customClass="w-40 m-auto mt-4" />
+        <commonButton text="Shop Now" customClass="w-44 m-auto mt-4" />
       </div>
     </div>
 
     <img src="/light-inlight.png" alt="logo inlight" class="m-auto mb-6 mt-8" />
     <div
-      class="m-auto max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[950px] xl:max-w-[1000px] 2xl:max-w-[1200px]"
+      class="m-auto max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:max-w-[950px] xl:max-w-[1200px] 2xl:max-w-[1400px]"
     >
       <div class="mt-4 xl:mb-16 xl:grid xl:grid-cols-3">
         <div class="xl:flex xl:flex-col xl:justify-end">

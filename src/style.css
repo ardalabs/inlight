@@ -20,7 +20,7 @@
   -webkit-text-size-adjust: 100%;
 
   --text-size-sm: 0.75rem;
-  --text-size-md: 1rem;
+  --text-size-md: 0.9rem;
   --text-size-lg: 1.125rem;
   --text-size-xl: 1.25rem;
   --text-size-2xl: 1.5rem;
@@ -39,46 +39,26 @@ body {
 }
 
 
-/* @media (min-width: 768px) {
-  :root {
-    --text-size-xs: calc(0.5rem + 0.15rem);
-    --text-size-sm: calc(0.75rem + 0.15rem);
-    --text-size-md: calc(1rem + 0.15rem);
-    --text-size-lg: calc(1.25rem + 0.15rem);
-    --text-size-xl: calc(2.5rem + 0.15rem);
-  }
-}
-
 @media (min-width: 1024px) {
   :root {
-    --text-size-xs: calc(0.5rem + 0.2rem);
-    --text-size-sm: calc(0.75rem + 0.2rem);
-    --text-size-md: calc(1rem + 0.1rem);
-    --text-size-lg: calc(1.25rem + 0.2rem);
-    --text-size-xl: calc(2.5rem + 0.2rem);
+    --text-size-sm: calc(0.75rem + 0.1rem);
+    --text-size-md: calc(0.9rem + 0.1rem);
+    --text-size-lg: calc(1.125rem + 0.1rem);
+    --text-size-xl: calc(1.25rem + 0.1rem);
+    --text-size-2xl: calc(1.5rem + 0.1rem);
+    --text-size-3xl: calc(1.9rem + 0.1rem);
+    --text-size-4xl: calc(2.25rem + 0.1rem);
+    --text-size-5xl: calc(2.85rem + 0.1rem);
   }
 }
 
 @media (min-width: 1280px) {
   :root {
-    --text-size-xs: calc(0.5rem + 0.3rem);
-    --text-size-sm: calc(0.75rem + 0.3rem);
-    --text-size-md: calc(1rem + 0.1rem);
-    --text-size-lg: calc(1.25rem + 0.3rem);
-    --text-size-xl: calc(2.5rem + 0.3rem);
+    --text-size-sm: calc(0.75rem + 0.2rem);
+    --text-size-md: calc(0.9rem + 0.2rem);
+    --text-size-lg: calc(1.125rem + 0.2rem);
   }
 }
-
-
-@media (min-width: 1536px) {
-  :root {
-    --text-size-xs: calc(0.5rem + 0.35rem);
-    --text-size-sm: calc(0.75rem + 0.35rem);
-    --text-size-md: calc(1rem + 0.1rem);
-    --text-size-lg: calc(1.25rem + 0.45rem);
-    --text-size-xl: calc(2.5rem + 0.35rem);
-  }
-} */
 
 p.text-sm {
   font-size: var(--text-size-sm);

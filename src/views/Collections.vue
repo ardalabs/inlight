@@ -8,7 +8,7 @@ import Footer from "../components/common/Footer.vue";
 <template>
   <NavBar />
   <div
-    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 xl:mt-40 xl:max-w-[1000px] 2xl:max-w-[1200px]"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 xl:mt-40 xl:max-w-[1200px] 2xl:max-w-[1400px]"
   >
     <div>
       <ElementBackground position="left" />
@@ -22,9 +22,9 @@ import Footer from "../components/common/Footer.vue";
             v-for="(item, index) in navigationItems"
             :key="index"
             @click="activateNavItem(index)"
-            class="mx-8 flex-shrink-0 font-light text-gray-500 hover:cursor-pointer hover:font-semibold hover:text-primary"
+            class="mx-8 flex-shrink-0 font-light text-gray-500 hover:cursor-pointer hover:text-primary"
             :class="{
-              'h-[27px] rounded border-b-4 border-primary font-semibold text-primary':
+              'h-[40px] rounded border-b-4 border-primary font-semibold text-primary':
                 item.isActive,
             }"
           >

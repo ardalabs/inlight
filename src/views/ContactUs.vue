@@ -7,7 +7,7 @@ import Footer from "../components/common/Footer.vue";
 <template>
   <NavBar />
   <div
-    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 lg:max-w-[800px] xl:max-w-[1000px] 2xl:max-w-[1200px]"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 lg:max-w-[800px] xl:max-w-[1200px] 2xl:max-w-[1400px]"
   >
     <ElementBackground position="left" />
     <div class="xl:mt-40">
@@ -18,11 +18,11 @@ import Footer from "../components/common/Footer.vue";
       </p>
     </div>
 
-    <div class="lg:grid lg:grid-cols-2 lg:gap-x-10 xl:mt-12 2xl:mt-20">
+    <div class="lg:grid lg:grid-cols-2 lg:gap-x-10 xl:mt-12">
       <div class="mt-8">
         <div class="w-full">
           <label class="label">
-            <span class="label-text font-semibold text-black">Full Name</span>
+            <p class="label-text font-semibold text-black">Full Name</p>
           </label>
           <input
             type="text"
@@ -30,7 +30,7 @@ import Footer from "../components/common/Footer.vue";
             class="input mb-2 w-full border-primary border-opacity-50 bg-transparent"
           />
         </div>
-        <div class="w-full">
+        <div class="w-full xl:mt-4">
           <label class="label">
             <span class="label-text font-semibold text-black">Email</span>
           </label>
@@ -40,7 +40,7 @@ import Footer from "../components/common/Footer.vue";
             class="input mb-2 w-full border-primary border-opacity-50 bg-transparent"
           />
         </div>
-        <div class="w-full">
+        <div class="w-full xl:mt-4">
           <label class="label">
             <span class="label-text font-semibold text-black">Message</span>
           </label>
@@ -50,7 +50,7 @@ import Footer from "../components/common/Footer.vue";
             class="input mb-2 w-full border-primary border-opacity-50 bg-transparent"
           />
         </div>
-        <div class="w-full">
+        <div class="w-full xl:mt-4">
           <label class="label">
             <span class="label-text font-semibold text-black"
               >Your Postcode</span
@@ -62,7 +62,7 @@ import Footer from "../components/common/Footer.vue";
             class="input mb-2 w-full border-primary border-opacity-50 bg-transparent"
           />
         </div>
-        <div class="w-full">
+        <div class="w-full xl:mt-4">
           <label class="label">
             <span class="label-text font-semibold text-black"
               >How did you find us?</span
