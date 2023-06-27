@@ -4,7 +4,7 @@ import commonButton from "../common/commonButton.vue";
 <template>
   <div class="m-auto">
     <div
-      class="mt-24 max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] m-auto bg-footer h-[50vh] flex flex-col justify-end items-center"
+      class="mt-24 2xl:mt-32 max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] 2xl:max-w-[1200px] m-auto bg-footer h-[50vh] flex flex-col justify-end items-center"
     >
       <div class="mb-20">
         <h2 class="text-white text-center font-medium">Choose Your Best One</h2>
@@ -14,7 +14,7 @@ import commonButton from "../common/commonButton.vue";
 
     <img src="/light-inlight.png" alt="logo inlight" class="m-auto mt-8 mb-6" />
     <div
-      class="max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] m-auto"
+      class="max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] 2xl:max-w-[1200px] m-auto"
     >
       <div class="px-8 xl:px-0 mt-4 xl:grid xl:grid-cols-3 xl:mb-16">
         <div class="xl:flex xl:flex-col xl:justify-end">

@@ -11,7 +11,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
 <template>
   <NavBar />
   <div
-    class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] m-auto mt-20 lg:mt-28"
+    class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] 2xl:max-w-[1200px] m-auto mt-20 lg:mt-28"
   >
     <ElementBackground position="left" />
 

@@ -7,16 +7,16 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
 
 <template>
   <NavBar />
-  <div class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] m-auto mt-20 lg:mt-28 xl:mt-40">
+  <div class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] 2xl:max-w-[1200px] m-auto mt-20 lg:mt-28 xl:mt-40">
     <ElementBackground position="left" />
     <div class="z-50 xl:grid xl:grid-cols-2 xl:gap-x-10">
       <h2 class="leading-tight">About The Team Indonesia Timber Lighting</h2>
       <p class="text-gray-500 opacity-80 my-4 xl:my-0">Inlight Lighting consists of a team of makers and designers based in Currumbin, Queensland. We design and craft bespoke timber lighting with a growing collection of pendant and wall light designs. We have been crafting our timber pendants since 2018 and look forward to continuing to offer the highest quality timber lighting.</p>
     </div>
   </div>
-  <img src="/ourTeam/ourteam.png" alt="our team" class="mt-16">
+  <img src="/ourTeam/ourteam.png" alt="our team" class="mt-16 w-full 2xl:h-[60vh] object-cover">
 
-  <div class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] m-auto mt-16">
+  <div class="relatie max-w-sm sm:max-w-[540px] md:max-w-[668px] xl:max-w-[1000px] 2xl:max-w-[1200px] m-auto mt-16">
     <div class="xl:grid xl:grid-cols-2 xl:gap-x-10">
       <p class="text-gray-500">Our pendants are unique to the market, offering bespoke options and high-quality craftsmanship. Our lighting range is designed to suit both residential and commercial projects and can be customised to complement many interior styles and budgets.</p>
       <p class="text-gray-500 mt-6 xl:mt-0">Our design office and dedicated electrical workshop are located in Currumbin, Queensland. It is important to us to support other Australian businesses, so we have partnered with a select group of makers across Queensland and New South Wales who support us in crafting the timber for our pendants and creating our custom finishings. We are a registered Australian Made Campaign business.</p>

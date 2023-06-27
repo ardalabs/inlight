@@ -60,7 +60,7 @@ import NavBarItem from "./NavBarItem.vue";
     <div class="hidden xl:block">
       <div class="fixed w-full z-50">
         <nav :class="navbarClasses">
-          <div class="flex items-center justify-between px-20 py-6">
+          <div class="flex items-center justify-between px-20 py-6 2xl:px-56">
             <div class="w-1/10">
               <a href="/">
                 <img src="/light-inlight.png" alt="Logo" class="" />
