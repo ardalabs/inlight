@@ -94,7 +94,7 @@ import NavBarItem from "./NavBarItem.vue";
                   placeholder="Search"
                   class="input w-1/5 rounded-md bg-slate-100 bg-opacity-50"
                 />
-                <img src="/common/ic-shopping-bag.png" alt="shopping bag" />
+                <img src="/common/ic-shopping-bag.png" alt="shopping bag" class="hover:cursor-pointer"/>
               </div>
             </div>
           </div>

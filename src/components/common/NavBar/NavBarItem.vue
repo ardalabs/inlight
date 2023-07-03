@@ -17,7 +17,7 @@
   <div v-if="isMobileView === 'false'">
     <router-link :to="path">
       <p
-        class="hover:cursor-pointer hover:font-semibold hover:text-black"
+        class="hover:cursor-pointer hover:text-black"
         :class="[
           this.$route.path === path
             ? 'font-semibold text-black'

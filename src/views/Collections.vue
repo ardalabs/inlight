@@ -42,6 +42,7 @@ import Footer from "../components/common/Footer.vue";
         <div class="lg:grid lg:grid-cols-2 lg:gap-12 xl:grid-cols-3">
           <div v-for="(data, index) in jsonData" :key="index">
             <ProductCard
+              :id="data.id"
               :img="data.img_thumbnail"
               :title="data.product_name"
               :price="data.product_price"
@@ -54,14 +55,15 @@ import Footer from "../components/common/Footer.vue";
         v-if="
           item.isActive &&
           (item.label === 'Linear Pendants' ||
-            item.label === 'Pendant Light' ||
-            item.label === 'Wall Lights')
+            item.label === 'Flooring Lamp' ||
+            item.label === 'Chandelier Lamps')
         "
         class="px-10 md:px-20 lg:px-0"
       >
         <div class="lg:grid lg:grid-cols-2 lg:gap-12 xl:grid-cols-3">
           <div v-for="(data, index) in filteredData" :key="index">
             <ProductCard
+              :id="data.id"
               :img="data.img_thumbnail"
               :title="data.product_name"
               :price="data.product_price"
@@ -85,8 +87,8 @@ export default {
       navigationItems: [
         { label: "All Collection", isActive: true },
         { label: "Linear Pendants", isActive: false },
-        { label: "Pendant Light", isActive: false },
-        { label: "Wall Lights", isActive: false },
+        { label: "Flooring Lamp", isActive: false },
+        { label: "Chandelier Lamps", isActive: false },
       ],
     };
   },
@@ -96,7 +98,7 @@ export default {
   methods: {
     fetchData() {
       axios
-        .get("/db/ourWork.json")
+        .get("/db/collections.json")
         .then((resp) => {
           this.jsonData = resp.data.data;
         })

@@ -1,0 +1,429 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "img_thumbnail": "/db/collections/hayamwuruk/hayamwuruk-1.png",
+      "images": [
+        "/db/collections/hayamwuruk/hayamwuruk-1.png",
+        "/db/collections/hayamwuruk/hayamwuruk-2.png",
+        "/db/collections/hayamwuruk/hayamwuruk-3.png",
+        "/db/collections/hayamwuruk/hayamwuruk-4.png"
+      ],
+      "product_name": "Hayamwuruk",
+      "product_price": "100",
+      "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "2",
+      "img_thumbnail": "/db/collections/wijaya/wijaya-1.png",
+      "images": [
+        "/db/collections/wijaya/wijaya-1.png",
+        "/db/collections/wijaya/wijaya-2.png"
+      ],
+      "product_name": "Wijaya",
+      "product_price": "150",
+      "product_desc": "The Wijaya Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "3",
+      "img_thumbnail": "/db/collections/singhasari/singhasari-1.png",
+      "images": null,
+      "product_name": "Singhasari",
+      "product_price": "800",
+      "product_desc": "Singhasari is a striking linear beam like pendant crafted in solid timber. The tall timber body allows more timber feature to be displayed with the shape softened with subtly curved edges. The Talli has been designed to be a statement pendant. The LED strip lighting is minimal yet powerful enough for task lighting in a kitchen environment. Made in Indonesia.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "4",
+      "img_thumbnail": "/db/collections/mataram/mataram-1.png",
+      "images": null,
+      "product_name": "Mataram",
+      "product_price": "1200",
+      "product_desc": "Mataram Pendant is a dimmable LED pendant available in lengths up to 3 meters. The single LED strip light makes it both functional over kitchen islands and workspaces, and a standalone statement piece. Made in Indonesia.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "5",
+      "img_thumbnail": "/db/collections/jayanegara/jayanegara-1.png",
+      "images": [
+        "/db/collections/jayanegara/jayanegara-1.png",
+        "/db/collections/jayanegara/jayanegara-2.png"
+      ],
+      "product_name": "Jayanegara",
+      "product_price": "250",
+      "product_desc": "Jayanegara Pendantpendant features a neatly curved top referencing the presence of the arc as an architectural detail in residential and commercial spaces. This pendant is well suited to be a feature over kitchen islands, dining tables, and of ce spaces. Made in Indonesia.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "6",
+      "img_thumbnail": "/db/collections/rangkuti/rangkuti-1.png",
+      "images": [
+        "/db/collections/rangkuti/rangkuti-1.png",
+        "/db/collections/rangkuti/rangkuti-2.png"
+      ],
+      "product_name": "Rangkuti",
+      "product_price": "950",
+      "product_desc": "Rangkuti features a neatly curved top referencing the presence of the arc as an architectural detail in residential and commercial spaces. This pendant is well suited to be a feature over kitchen islands, dining tables, and of ce spaces. Made in Indonesia.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "7",
+      "img_thumbnail": "/db/collections/arunika/arunika-1.png",
+      "images": null,
+      "product_name": "Arunika",
+      "product_price": "300",
+      "product_desc": "Arunika Inspired by the simplicity of Nordic architecture, this long chandelier comes handcrafted to celebrate natural landscapes, Scandinavian tradition and modern minimalism through the art of illumination. Designed to shine light UPWARD and DOWNWARD, the double edge pendant chandelier serves as both an overhead lamp and accent light to give your space a sophisticated ambience.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "8",
+      "img_thumbnail": "/db/collections/hayamwurukUp/hayamwurukUp-1.png",
+      "images": [
+        "/db/collections/hayamwurukUp/hayamwurukUp-1.png",
+        "/db/collections/hayamwurukUp/hayamwurukUp-2.png",
+        "/db/collections/hayamwurukUp/hayamwurukUp-3.png"
+      ],
+      "product_name": "Hayamwuruk Up",
+      "product_price": "1500",
+      "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "9",
+      "img_thumbnail": "/db/collections/brawijaya/brawijaya-1.png",
+      "images": [
+        "/db/collections/brawijaya/brawijaya-1.png",
+        "/db/collections/brawijaya/brawijaya-2.png",
+        "/db/collections/brawijaya/brawijaya-4.png"
+      ],
+      "product_name": "Brawijaya",
+      "product_price": "850",
+      "product_desc": "The Brawijaya Pendant has a modern and uniquely crafted shape that. Is the perfect pendant for kitchen islands and dining tables. We craft the Brawijaya in lengths up to 3 meters in bespoke hardwood timbers. Made in Indonesia",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "10",
+      "img_thumbnail": "/db/collections/wijayaKusuma/wijayaKusuma-1.png",
+      "images": [
+        "/db/collections/wijayaKusuma/wijayaKusuma-1.png",
+        "/db/collections/wijayaKusuma/wijayaKusuma-2.png",
+        "/db/collections/wijayaKusuma/wijayaKusuma-3.png",
+        "/db/collections/wijayaKusuma/wijayaKusuma-4.png",
+        "/db/collections/wijayaKusuma/wijayaKusuma-5.png"
+      ],
+      "product_name": "Wijaya Kusuma",
+      "product_price": "400",
+      "product_desc": "Modern LED oor lamp made from solid Teakwood or Mindi wood. Combination of modern minimalist design, energy-ef cient eye-caring LED technology and traditional beauty of wood. Thanks to its modern design, it also provides a stylish decoration for your home, workplace and all living spaces.",
+      "label": "Flooring Lamp",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "11",
+      "img_thumbnail": "/db/collections/banda/banda-1.png",
+      "images": null,
+      "product_name": "Banda",
+      "product_price": "400",
+      "product_desc": "Modern LED oor lamp made from solid Teakwood or Mindi wood. Combination of modern minimalist design, energy-e cient eye-caring LED technology and traditional beauty of wood. Thanks to its modern design, it also provides a stylish decoration for your home, workplace and all living spaces.",
+      "label": "Flooring Lamp",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "12",
+      "img_thumbnail": "/db/collections/pomala/pomala-1.png",
+      "images": [
+        "/db/collections/pomala/pomala-1.png",
+        "/db/collections/pomala/pomala-2.png",
+        "/db/collections/pomala/pomala-3.png"
+      ],
+      "product_name": "Pomala",
+      "product_price": "400",
+      "product_desc": "Modern LED oor lamp made from solid Teakwood or Mindi wood. Combination of modern minimalist design, energy-e cient eye-caring LED technology and traditional beauty of wood. Thanks to its modern design, it also provides a stylish decoration for your home, workplace and all living spaces.",
+      "label": "Flooring Lamp",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "13",
+      "img_thumbnail": "/db/collections/derawan/derawan-1.png",
+      "images": [
+        "/db/collections/derawan/derawan-1.png",
+        "/db/collections/derawan/derawan-2.png",
+        "/db/collections/derawan/derawan-3.png"
+      ],
+      "product_name": "Derawan",
+      "product_price": "400",
+      "product_desc": "Modern LED oor lamp made from solid Teakwood or Mindi wood. Combination of modern minimalist design, energy-e cient eye-caring LED technology and traditional beauty of wood. Thanks to its modern design, it also provides a stylish decoration for your home, workplace and all living spaces.",
+      "label": "Flooring Lamp",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "14",
+      "img_thumbnail": "/db/collections/sputnik/sputnik-1.png",
+      "images": [
+        "/db/collections/sputnik/sputnik-1.png"
+      ],
+      "product_name": "Sputnik",
+      "product_price": "400",
+      "product_desc": "Sputnik is a new product designed by Harimurti for Inlight project. Sputnikre ned shape is manually turned in Indonesia from high-quality wood like teak, Mindi, mahogany",
+      "label": "Chandelier Lamps",
+      "technical_details": {
+        "dimensions": "ø 10, 15 and 20 cm.",
+        "material": "Wood",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "15",
+      "img_thumbnail": "/db/collections/reed/reed-1.png",
+      "images": null,
+      "product_name": "Reed",
+      "product_price": "400",
+      "product_desc": "Sputnik is a new product designed by Harimurti for Inlight project. Sputnikre ned shape is manually turned in Indonesia from high-quality wood like teak, Mindi, mahogany",
+      "label": "Chandelier Lamps",
+      "technical_details": {
+        "dimensions": "ø 10, 15 and 20 cm.",
+        "material": "Wood",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    },
+    {
+      "id": "16",
+      "img_thumbnail": "/db/collections/woodgate/woodgate-1.png",
+      "images": [
+        "/db/collections/woodgate/woodgate-1.png",
+        "/db/collections/woodgate/woodgate-2.png"
+      ],
+      "product_name": "Woodgate",
+      "product_price": "400",
+      "product_desc": "Sputnik is a new product designed by Harimurti for Inlight project. Sputnikre ned shape is manually turned in Indonesia from high-quality wood like teak, Mindi, mahogany",
+      "label": "Chandelier Lamps",
+      "technical_details": {
+        "dimensions": "ø 10, 15 and 20 cm.",
+        "material": "Wood",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "6 month full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      }
+    }
+  ]
+}

@@ -4,6 +4,7 @@ import OurTeam from "../views/OurTeam.vue";
 import Collections from "../views/Collections.vue";
 import ContactUs from "../views/ContactUs.vue";
 import Projects from "../views/Projects.vue";
+import DetailProduct from "../views/DetailProduct.vue";
 
 const routes = [
   {
@@ -20,6 +21,11 @@ const routes = [
     path: "/collections",
     name: "Collections",
     component: Collections,
+  },
+  {
+    path: "/collection/:id",
+    name: "DetailProduct",
+    component: DetailProduct,
   },
   {
     path: "/contact-us",

@@ -25,7 +25,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
           </p>
           <div class="mt-6 flex items-center justify-start gap-x-6">
             <commonButton text="Explore Now" />
-            <div class="flex items-center gap-x-4 px-4 py-3 hover:bg-slate-100">
+            <div class="flex items-center gap-x-4 px-4 py-3 hover:bg-slate-300 hover:cursor-pointer">
               <p class="">Our Collection</p>
               <img
                 src="/common/ic-arrow-right.svg"
