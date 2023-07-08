@@ -79,11 +79,11 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
             of experienced makers have been working with timber for over 35
             years. We are proud of our collaboration with Currumbin Woodworks,
             founded and run by Shari’s dad, Chris (top left above). Chris and
-            Shari developed the original Fluxwood range of pendants together and
+            Shari developed the original Inlight range of pendants together and
             now the team at Currumbin Woodworks craft our Tenn and Hollow
             Pendants, and complete all of our timber crafting and finishing work
             at their timber workshop in Currumbin. Timi (top right above) is on
-            the workshop team and manages the Fluxwood timber production at
+            the workshop team and manages the Inlight timber production at
             Currumbin Woodworks.
           </p>
           <p class="mt-6 text-gray-500">

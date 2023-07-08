@@ -74,7 +74,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
       <div class="flex flex-col justify-center">
         <h1>About Us</h1>
         <p class="mt-2 text-gray-500">
-          Fluxwood is a family-owned business consisting of a small team of
+          Inlight is a family-owned business consisting of a small team of
           craftspeople and designers. Our design studio, timber and electrical
           workshops are located in Currumbin, Queensland. We are proud to
           collaborate with other local skilled makers across Queensland who

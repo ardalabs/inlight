@@ -29,7 +29,7 @@ import TestimonialCard from "./TestimonialCard.vue";
           img="/homePage/cust-1.png"
           peopleName="Slide 1"
           peopleJob="loremp ipsum"
-          peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Fluxwood is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
+          peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Inlight is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
         />
       </div>
       <div
@@ -40,7 +40,7 @@ import TestimonialCard from "./TestimonialCard.vue";
           img="/homePage/cust-1.png"
           peopleName="Slide 2"
           peopleJob="lorem ipsum 2"
-          peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Fluxwood is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
+          peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Inlight is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
         />
       </div>
     </div>

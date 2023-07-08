@@ -17,6 +17,9 @@ import Footer from "../components/common/Footer.vue";
       <div class="mb-20 xl:grid xl:grid-cols-2 xl:space-x-4 2xl:space-x-10">
         <div>
           <!-- product pict -->
+          <div class="block xl:hidden">
+            <img src="/common/ic-back.png" alt="back" class="w-7" @click="goBack()">
+          </div>
           <div>
             <div v-if="jsonData.images != null" class="mt-10 xl:mt-0">
               <img :src="`${jsonData.images[currentImageIndex]}`" alt="" class="w-96 h-96 object-fill m-auto xl:w-[768px] xl:h-[768px]"/>
@@ -117,14 +120,16 @@ import Footer from "../components/common/Footer.vue";
           <div class="mt-10">
             <p class="text-gray-500">Start from</p>
             <h3 class="font-semibold text-primary">
-              ${{ jsonData.product_price }}
+              {{ jsonData.product_price }}
             </h3>
           </div>
   
           <!-- link to ecommerce -->
-          <div class="mt-10">
+          <div class="mt-10" v-if="jsonData.tokopedia != 'Coming Soon'">
             <p class="text-gray-500">Order Now</p>
-            <img src="/common/tokopedia.png" alt="tokopedia" class="mt-3 w-32 hover:cursor-pointer" />
+            <a :href="jsonData.tokopedia" target="_blank">
+              <img src="/common/tokopedia.png" alt="tokopedia" class="mt-3 w-32 hover:cursor-pointer" />
+            </a>
           </div>
         </div>
       </div>
@@ -163,6 +168,9 @@ export default {
     changeImageIndex(index) {
       this.currentImageIndex = index;
     },
+    goBack(){
+      this.$router.go(-1)
+    }
   },
 };
 </script>

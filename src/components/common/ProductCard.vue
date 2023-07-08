@@ -4,7 +4,7 @@
       <img :src="img" alt="featured" class="mb-4 w-[460px] h-[364px] object-fill" />
       <h4>{{ title }}</h4>
       <div class="mt-4 flex items-center justify-between">
-        <h5 class="font-semibold text-primary">${{ price }}</h5>
+        <h5 class="font-semibold text-primary">{{ price }}</h5>
         <div
           class="rounded-full border border-black bg-white px-4 py-1 transition-all hover:cursor-pointer hover:bg-black hover:text-white"
         >
