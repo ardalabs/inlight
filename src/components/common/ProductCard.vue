@@ -1,7 +1,7 @@
 <template>
   <router-link :to="`/collection/${id}`">
     <div :class="customClass" class="m-auto hover:cursor-pointer">
-      <img :src="img" alt="featured" class="mb-4 w-[460px] h-[364px] object-fill" />
+      <img v-lazy="img" alt="featured" class="mb-4 w-[460px] h-[364px] object-fill" />
       <h4>{{ title }}</h4>
       <div class="mt-4 flex items-center justify-between">
         <h5 class="font-semibold text-primary">{{ price }}</h5>
