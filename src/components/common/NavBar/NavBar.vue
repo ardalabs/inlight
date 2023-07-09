@@ -51,7 +51,7 @@ import NavBarItem from "./NavBarItem.vue";
             text="Contact Us"
             isMobileView="true"
           />
-          <NavBarItem path="/our-team" text="Our Team" isMobileView="true" />
+          <!-- <NavBarItem path="/our-team" text="Our Team" isMobileView="true" /> -->
         </div>
       </div>
     </div>
@@ -84,11 +84,11 @@ import NavBarItem from "./NavBarItem.vue";
                   text="Contact Us"
                   isMobileView="false"
                 />
-                <NavBarItem
+                <!-- <NavBarItem
                   path="/our-team"
                   text="Our Team"
                   isMobileView="false"
-                />
+                /> -->
                 <input
                   type="text"
                   placeholder="Search"

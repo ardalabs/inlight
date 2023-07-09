@@ -27,8 +27,8 @@ import TestimonialCard from "./TestimonialCard.vue";
       >
         <TestimonialCard
           img="/homePage/cust-1.png"
-          peopleName="Slide 1"
-          peopleJob="Kirana"
+          peopleName="Kirana Dewi"
+          peopleJob="Interior Designer"
           peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Inlight is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
         />
       </div>
@@ -38,8 +38,8 @@ import TestimonialCard from "./TestimonialCard.vue";
       >
         <TestimonialCard
           img="/homePage/cust-1.png"
-          peopleName="Slide 2"
-          peopleJob="Kirana"
+          peopleName="Kirana Putri"
+          peopleJob="Interior Designer"
           peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Inlight is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
         />
       </div>

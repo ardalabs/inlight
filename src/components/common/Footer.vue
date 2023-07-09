@@ -35,8 +35,8 @@ import commonButton from "../common/commonButton.vue";
           <img src="/common/ic-facebook.svg" alt="instagram-facebook" />
         </div>
         <div class="mb-8 flex justify-between xl:mb-0 xl:items-end">
-          <p class="font-light text-gray-700">info@inlight.io</p>
-          <p class="font-light text-gray-700">(+62) 867 2632 1271</p>
+          <p class="font-light text-gray-700">lifeinlight.id</p>
+          <p class="font-light text-gray-700">(+62) 812-9444-2123</p>
         </div>
       </div>
     </div>

@@ -123,8 +123,7 @@ import Footer from "../components/common/Footer.vue";
         <div class="mt-8 lg:mt-4">
           <h4 class="font-semibold">Address</h4>
           <p class="mt-2 text-gray-500">
-            7/35 Currumbin Creek Rd,Currumbin, QLD 4223 Australia(workshop
-            visits by appointment only)
+            Griya Tanjung Priok Jaya 2, Blok G5, Bakalankrajan, Kec. Sukun, Kota Malang, Jawa Timur 65148, Indonesia
           </p>
         </div>
         <div class="mt-8 xl:mt-4">
@@ -139,7 +138,7 @@ import Footer from "../components/common/Footer.vue";
             <img src="/contactUs/ic-phone.svg" alt="phone" />
             <div>
               <h4 class="font-semibold">Phone Number</h4>
-              <p class="mt-2 text-gray-500">(+62) 963 1381 7391</p>
+              <p class="mt-2 text-gray-500">(+62) 812-9444-2123</p>
             </div>
           </div>
         </div>
