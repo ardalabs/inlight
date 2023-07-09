@@ -22,10 +22,10 @@ import Footer from "../components/common/Footer.vue";
           </div>
           <div>
             <div v-if="jsonData.images != null" class="mt-10 xl:mt-0">
-              <img v-lazy="`${jsonData.images[currentImageIndex]}`" alt="" class="w-96 h-96 object-fill m-auto xl:w-[768px] xl:h-[768px]"/>
+              <img :src="`${jsonData.images[currentImageIndex]}`" alt="" class="w-96 h-96 object-fill m-auto xl:w-[768px] xl:h-[768px]"/>
             </div>
             <div v-else class="mt-0">
-              <img v-lazy="`${jsonData.img_thumbnail}`" alt="" class="w-96 h-96 object-fill m-auto">
+              <img :src="`${jsonData.img_thumbnail}`" alt="" class="w-96 h-96 object-fill m-auto">
             </div>
           </div>
           <div class="mt-5 m-auto">
