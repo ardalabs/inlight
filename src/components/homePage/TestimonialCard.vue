@@ -4,7 +4,7 @@
       <img :src="img" alt="customer" />
       <div>
         <h4 class="font-semibold">{{ peopleName }}</h4>
-        <h4 class="font-light text-gray-500">{{ peopleJob }}</h4>
+        <!-- <h4 class="font-light text-gray-500">{{ peopleJob }}</h4> -->
       </div>
     </div>
     <p class="mt-8">
@@ -18,7 +18,7 @@ export default {
   props: {
     img: String,
     peopleName: String,
-    peopleJob: String,
+    // peopleJob: String,
     peopleTestimony: String,
   },
 };

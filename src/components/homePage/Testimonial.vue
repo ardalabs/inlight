@@ -27,20 +27,8 @@ import TestimonialCard from "./TestimonialCard.vue";
       >
         <TestimonialCard
           img="/homePage/cust-1.png"
-          peopleName="Kirana Dewi"
-          peopleJob="Interior Designer"
-          peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Inlight is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
-        />
-      </div>
-      <div
-        class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"
-        data-te-carousel-item
-      >
-        <TestimonialCard
-          img="/homePage/cust-1.png"
-          peopleName="Kirana Putri"
-          peopleJob="Interior Designer"
-          peopleTestimony="We love our new Tenn linear pendant. Shari has been very helpful throughout. Inlight is the only company who delivered on time without any delays. The design is slick and modern and the craftsmanship and quality is superb."
+          peopleName="Endah Nasution"
+          peopleTestimony="Terobosan desain dan inovasi membuat produk lokal tidak kalah bersaing dengan produk dari luar negeri. Inligth sejuta potensi yang perlu digarap dan siap melejit!"
         />
       </div>
     </div>
