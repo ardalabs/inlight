@@ -25,7 +25,9 @@ import Testimonial from "../components/homePage/Testimonial.vue";
           </p>
           <div class="mt-6 flex items-center justify-start gap-x-6">
             <commonButton text="Explore Now" />
-            <div class="flex items-center gap-x-4 px-4 py-3 hover:bg-slate-300 hover:cursor-pointer">
+            <div
+              class="flex items-center gap-x-4 px-4 py-3 hover:cursor-pointer hover:bg-slate-300"
+            >
               <p class="">Our Collection</p>
               <img
                 src="/common/ic-arrow-right.svg"
@@ -76,10 +78,9 @@ import Testimonial from "../components/homePage/Testimonial.vue";
         <p class="mt-2 text-gray-500">
           Inlight is a family-owned business consisting of a small team of
           craftspeople and designers. Our design studio, timber and electrical
-          workshops are located in Currumbin, Queensland. We are proud to
-          collaborate with other local skilled makers across Queensland who
-          contribute to crafting the high quality components for our timber
-          lighting range
+          workshops are located in Java, Indonesia. We are proud to collaborate
+          with other local skilled makers across Indonesia who contribute to
+          crafting the high quality components for our timber lighting range.
         </p>
         <commonButton text="Read More" customClass="w-44 mt-4" />
       </div>
@@ -94,49 +95,25 @@ import Testimonial from "../components/homePage/Testimonial.vue";
         <h2 class="leading-tight">Featured Lighting</h2>
         <commonButton text="View All" />
       </div>
-      <div class="carousel w-full gap-x-10">
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/featured-1.png"
-            title="Silo Timber Sienco 1"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/featured-1.png"
-            title="Silo Timber Sienco 2"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/featured-1.png"
-            title="Silo Timber Sienco 3"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/featured-1.png"
-            title="Silo Timber Sienco 3"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/featured-1.png"
-            title="Silo Timber Sienco 3"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/featured-1.png"
-            title="Silo Timber Sienco 3"
-            price="98.0"
-          />
-        </div>
+      <div class="carousel w-full gap-x-5">
+        <template v-for="(data, index) in jsonData" :key="index">
+          <div class="carousel-item">
+            <template
+              v-if="
+                data.product_name == 'Hayamwuruk' ||
+                data.product_name == 'Singhasari' ||
+                data.product_name == 'Mataram'
+              "
+            >
+              <ProductCard
+                :id="data.id"
+                :img="data.img_thumbnail"
+                :title="data.product_name"
+                :price="data.product_price"
+              />
+            </template>
+          </div>
+        </template>
       </div>
     </div>
 
@@ -149,54 +126,6 @@ import Testimonial from "../components/homePage/Testimonial.vue";
       <Testimonial />
     </div>
 
-    <!-- our collection section -->
-    <div class="mt-16 lg:mt-24 xl:mt-32">
-      <h2 class="mb-8">Our Collection</h2>
-      <div class="carousel w-full gap-x-10">
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/collection-1.png"
-            title="Silo Timber Sienco"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/collection-1.png"
-            title="Silo Timber Sienco"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/collection-1.png"
-            title="Silo Timber Sienco"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/collection-1.png"
-            title="Silo Timber Sienco"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/collection-1.png"
-            title="Silo Timber Sienco"
-            price="98.0"
-          />
-        </div>
-        <div class="carousel-item">
-          <ProductCard
-            img="/homePage/collection-1.png"
-            title="Silo Timber Sienco"
-            price="98.0"
-          />
-        </div>
-      </div>
-    </div>
 
     <!-- value section -->
     <div class="mt-16 lg:mt-24 xl:mt-32">
@@ -244,3 +173,29 @@ import Testimonial from "../components/homePage/Testimonial.vue";
 
   <Footer />
 </template>
+
+<script>
+import axios from "axios";
+export default {
+  data() {
+    return {
+      jsonData: [],
+    };
+  },
+  mounted() {
+    this.fetchData();
+  },
+  methods: {
+    fetchData() {
+      axios
+        .get("/db/collections.json")
+        .then((resp) => {
+          this.jsonData = resp.data.data;
+        })
+        .catch((err) => {
+          console.log(err);
+        });
+    },
+  },
+};
+</script>
