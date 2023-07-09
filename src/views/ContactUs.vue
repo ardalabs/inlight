@@ -109,7 +109,7 @@ import Footer from "../components/common/Footer.vue";
         </div>
       </div>
       <div class="mt-12">
-        <img src="/contactUs/map.png" alt="map" class="w-full" />
+        <img src="/contactUs/map2.png" alt="map" class="w-full" />
       </div>
     </div>
 
