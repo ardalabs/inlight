@@ -27,7 +27,7 @@ import TestimonialCard from "./TestimonialCard.vue";
       >
         <TestimonialCard
           img="/homePage/cust-1.png"
-          peopleName="Endah Nasution"
+          peopleName="Enda Nasution"
           peopleTestimony="Terobosan desain dan inovasi membuat produk lokal tidak kalah bersaing dengan produk dari luar negeri. Inligth sejuta potensi yang perlu digarap dan siap melejit!"
         />
       </div>
