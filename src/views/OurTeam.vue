@@ -76,7 +76,7 @@ import NavBar from "../components/common/NavBar/NavBar.vue";
           <p class="mt-4 text-gray-500">
             Our products are sustainably crafted to be enduring and of the
             highest quality. The use of solid timber is no coincidence, our team
-            of experienced makers have been working with timber for over 35
+            of experienced makers have been working with timber for over 2
             years. We are proud of our collaboration with Currumbin Woodworks,
             founded and run by Shari’s dad, Chris (top left above). Chris and
             Shari developed the original Inlight range of pendants together and

@@ -56,7 +56,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
         </h3>
         <p class="mt-4 text-gray-500">
           We craft thoughtfully Indonesian Made lighting from beautiful, locally
-          sourced solid timber. We have been working with timber for over 35
+          sourced solid timber. We have been working with timber for over 2
           years and our small team of designers and woodworkers love to craft
           unique timber lighting pieces using both traditional and innovative
           woodworking techniques.
