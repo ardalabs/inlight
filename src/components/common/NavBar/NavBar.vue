@@ -45,7 +45,7 @@ import NavBarItem from "./NavBarItem.vue";
             text="Collections"
             isMobileView="true"
           />
-          <NavBarItem path="/projects" text="Projects" isMobileView="true" />
+          <!-- <NavBarItem path="/projects" text="Projects" isMobileView="true" /> -->
           <NavBarItem
             path="/contact-us"
             text="Contact Us"
@@ -74,11 +74,11 @@ import NavBarItem from "./NavBarItem.vue";
                   text="Collections"
                   isMobileView="false"
                 />
-                <NavBarItem
+                <!-- <NavBarItem
                   path="/projects"
                   text="Projects"
                   isMobileView="false"
-                />
+                /> -->
                 <NavBarItem
                   path="/contact-us"
                   text="Contact Us"

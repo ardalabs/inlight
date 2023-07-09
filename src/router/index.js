@@ -32,11 +32,11 @@ const routes = [
     name: "ContactUs",
     component: ContactUs,
   },
-  {
-    path: "/projects",
-    name: "Projects",
-    component: Projects,
-  },
+  // {
+  //   path: "/projects",
+  //   name: "Projects",
+  //   component: Projects,
+  // },
 ];
 
 const router = createRouter({
