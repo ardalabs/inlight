@@ -28,7 +28,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
             <div
               class="flex items-center gap-x-4 px-4 py-3 hover:cursor-pointer hover:bg-slate-300"
             >
-              <p class="">Our Collection</p>
+              <a href="/collections" class="">Our Collections</a>
               <img
                 src="/common/ic-arrow-right.svg"
                 alt="Arrow Right"
