@@ -105,4 +105,7 @@ h1 {
 .home_header {
   font-weight: 700;
 }
+.big_top_header {
+  font-size: 80px !important;
+}
 

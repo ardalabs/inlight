@@ -18,7 +18,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <div class="z-50">
       <div class="lg:grid lg:grid-cols-2 lg:gap-x-10">
         <div class="flex flex-col justify-center">
-          <h1 class="leading-tight home_header">Indonesia Timber Lighting</h1>
+          <h1 class="leading-tight home_header big_top_header">Indonesia Timber Lighting</h1>
           <p class="mt-2 text-gray-500">
             Offering a captivating array of timber-based lighting products that
             illuminate any space with timeless elegance.
