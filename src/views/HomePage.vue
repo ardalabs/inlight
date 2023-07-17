@@ -18,7 +18,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <div class="z-50">
       <div class="lg:grid lg:grid-cols-2 lg:gap-x-10">
         <div class="flex flex-col justify-center">
-          <h1 class="leading-tight">Indonesia Timber Lighting</h1>
+          <h1 class="leading-tight home_header big_top_header">Indonesia Timber Lighting</h1>
           <p class="mt-2 text-gray-500">
             Offering a captivating array of timber-based lighting products that
             illuminate any space with timeless elegance.
@@ -28,7 +28,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
             <div
               class="flex items-center gap-x-4 px-4 py-3 hover:cursor-pointer hover:bg-slate-300"
             >
-              <p class="">Our Collection</p>
+              <a href="/collections" class="">Our Collections</a>
               <img
                 src="/common/ic-arrow-right.svg"
                 alt="Arrow Right"
@@ -48,7 +48,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
       class="mt-16 lg:flex lg:flex-row-reverse lg:items-center lg:gap-x-10 xl:mt-32"
     >
       <div class="lg:w-1/2">
-        <h3 class="leading-tight">
+        <h3 class="leading-tight home-header">
           We craft contemporary and high quality
           <span class="font-semibold text-primary">Indonesian</span> Made
           <span class="font-semibold text-primary">timber lighting</span>
@@ -92,7 +92,7 @@ import Testimonial from "../components/homePage/Testimonial.vue";
     <!-- featured section -->
     <div class="mt-16 lg:mt-24 xl:mt-32">
       <div class="mb-8 flex items-center justify-between">
-        <h2 class="leading-tight">Featured Lighting</h2>
+        <h2 class="leading-tight home_header">Featured Lighting</h2>
         <commonButton text="View All" />
       </div>
       <div class="carousel w-full gap-x-5">
