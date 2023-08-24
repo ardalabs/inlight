@@ -440,6 +440,37 @@
         "drop_length": "1500mm/ Custom x Meters"
       },
       "tokopedia": "Coming Soon"
+    },
+    {
+      "id": "sputnik-chandelier",
+      "img_thumbnail": "/db/collections/sputnik-chandelier/1.jpg",
+      "images": [
+        "/db/collections/sputnik-chandelier/1.jpg",
+        "/db/collections/sputnik-chandelier/2.jpg",
+        "/db/collections/sputnik-chandelier/3.jpg",
+        "/db/collections/sputnik-chandelier/4.jpg"
+
+      ],
+      "product_name": "Sputnik Inlight chandelier Lamp 3 - Lampu gantung kayu solid",
+      "product_price": "Rp550.000",
+      "product_desc": "Sputnik is a new product designed by Harimurti for Inlight project. Sputnikre ned shape is manually turned in Indonesia from high-quality wood like teak, Mindi, mahogany",
+      "label": "Chandelier Lamps",
+      "technical_details": {
+        "dimensions": "ø 10, 15 and 20 cm.",
+        "material": "Wood",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/tutitu/sputnik-inlight-chandelier-lamp-3-lampu-gantung-kayu-solid?extParam=whid%3D5334167"
     }
   ]
 }
