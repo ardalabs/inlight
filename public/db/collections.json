@@ -9,7 +9,7 @@
         "/db/collections/hayamwuruk/hayamwuruk-3.png",
         "/db/collections/hayamwuruk/hayamwuruk-4.png"
       ],
-      "product_name": "Inlight Pendant Lamp Linear 9 - Lampu gantung kayu solid - 100 cm",
+      "product_name": "Hayamwuruk",
       "product_price": "Rp1.350.0000 - Rp2.350.000",
       "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
       "label": "Linear Pendants",
@@ -19,7 +19,7 @@
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
         "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "ceiling_plate": "Black Canopy Ø8 / Straight wood max 100cm",
         "led_colour": [
           "2700K Warm White",
           "3000K Bright Warm White",
@@ -28,18 +28,48 @@
         "cable_colour": "Black",
         "drop_length": "1500mm/ Custom x Meters"
       },
-      "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-9-lampu-gantung-kayu-solid-100-cm?extParam=whid%3D5334167"
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-hayamwuruk-lamp-linear-2-lampu-gantung-kayu-solid-100cm"
     },
     {
-      "id": "wijaya-linear-led-pendant",
-      "img_thumbnail": "/db/collections/wijaya/wijaya-1.png",
+      "id": "kahuripan-linear-led-pendant",
+      "img_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/23/1599b480-8558-4b68-a366-be9ed7fa82a2.jpg",
       "images": [
-        "/db/collections/wijaya/wijaya-2.png",
-        "/db/collections/wijaya/wijaya-1.png"
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/23/1599b480-8558-4b68-a366-be9ed7fa82a2.jpg",
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/23/f5fecb0b-7f79-4e8e-86e4-d83a5433f572.jpg",
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/23/66d9505c-d387-40aa-b831-ef61f017acba.jpg"
       ],
-      "product_name": "Inlight Pendant Lamp Linear 13 - Lampu gantung kayu solid double lamp - 120cm",
-      "product_price": "Rp1.250.000 - Rp2.650.000",
-      "product_desc": "The Wijaya Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "product_name": "Kahuripan",
+      "product_price": "Rp1.350.0000 - Rp2.350.000",
+      "product_desc": "The Kahuripanpendant features a neatly curved top referencing the presence of the arc as an architectural detail in residential and commercial spaces. This pendant is well suited to be a feature over kitchen islands, dining tables, and office spaces.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø8 / Straight wood max 100cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-kahuripan-lamp-linear-8-lampu-gantung-kayu-solid-100cm-c0c6e?extParam=whid%3D16047080"
+    },
+    {
+      "id": "wisnuwardhana-linear-led-pendant",
+      "img_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/f96f8fd5-8988-41f7-952a-942c2a15b25b.jpg",
+      "images": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/f96f8fd5-8988-41f7-952a-942c2a15b25b.jpg",
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/4af4a9a4-2167-415a-9d72-42412982afc3.png",
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/4af4a9a4-2167-415a-9d72-42412982afc3.png"
+      ],
+      "product_name": "Wishnuwardhana",
+      "product_price": "Rp1.350.000 - Rp2.650.000",
+      "product_desc": "The Wisnuwardhana Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
       "label": "Linear Pendants",
       "technical_details": {
         "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
