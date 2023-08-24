@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": "1",
+      "id": "hayamwuruk-linear-led-pendant",
       "img_thumbnail": "/db/collections/hayamwuruk/hayamwuruk-1.png",
       "images": [
         "/db/collections/hayamwuruk/hayamwuruk-1.png",
@@ -18,7 +18,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -31,11 +31,11 @@
       "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-9-lampu-gantung-kayu-solid-100-cm?extParam=whid%3D5334167"
     },
     {
-      "id": "2",
+      "id": "wijaya-linear-led-pendant",
       "img_thumbnail": "/db/collections/wijaya/wijaya-1.png",
       "images": [
-        "/db/collections/wijaya/wijaya-1.png",
-        "/db/collections/wijaya/wijaya-2.png"
+        "/db/collections/wijaya/wijaya-2.png",
+        "/db/collections/wijaya/wijaya-1.png"
       ],
       "product_name": "Wijaya",
       "product_price": "Rp1.450.000",
@@ -46,7 +46,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -59,7 +59,7 @@
       "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-13-lampu-gantung-kayu-solid-double-lamp-120cm-068d7?extParam=whid%3D5334167"
     },
     {
-      "id": "3",
+      "id": "singhasari",
       "img_thumbnail": "/db/collections/singhasari/singhasari-1.png",
       "images": null,
       "product_name": "Singhasari",
@@ -71,7 +71,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -84,7 +84,7 @@
       "tokopedia": "Coming Soon"
     },
     {
-      "id": "4",
+      "id": "mataram",
       "img_thumbnail": "/db/collections/mataram/mataram-1.png",
       "images": null,
       "product_name": "Mataram",
@@ -96,7 +96,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -109,7 +109,7 @@
       "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-6-lampu-gantung-kayu-solid-120cm?extParam=whid%3D5334167"
     },
     {
-      "id": "5",
+      "id": "jayanegara",
       "img_thumbnail": "/db/collections/jayanegara/jayanegara-1.png",
       "images": [
         "/db/collections/jayanegara/jayanegara-1.png",
@@ -124,7 +124,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -137,7 +137,7 @@
       "tokopedia": "Coming Soon"
     },
     {
-      "id": "6",
+      "id": "rangkuti",
       "img_thumbnail": "/db/collections/rangkuti/rangkuti-1.png",
       "images": [
         "/db/collections/rangkuti/rangkuti-1.png",
@@ -152,7 +152,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -165,7 +165,7 @@
       "tokopedia": "Coming Soon"
     },
     {
-      "id": "7",
+      "id": "arunika",
       "img_thumbnail": "/db/collections/arunika/arunika-1.png",
       "images": null,
       "product_name": "Arunika",
@@ -177,7 +177,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -190,7 +190,7 @@
       "tokopedia": "Coming Soon"
     },
     {
-      "id": "8",
+      "id": "Hayamwuruk Up",
       "img_thumbnail": "/db/collections/hayamwurukUp/hayamwurukUp-1.png",
       "images": [
         "/db/collections/hayamwurukUp/hayamwurukUp-1.png",
@@ -206,7 +206,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -219,7 +219,7 @@
       "tokopedia":"Coming Soon"
     },
     {
-      "id": "9",
+      "id": "brawijaya",
       "img_thumbnail": "/db/collections/brawijaya/brawijaya-1.png",
       "images": [
         "/db/collections/brawijaya/brawijaya-1.png",
@@ -235,7 +235,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -248,7 +248,7 @@
       "tokopedia": "Coming Soon"
     },
     {
-      "id": "10",
+      "id": "wijaya-kusuma",
       "img_thumbnail": "/db/collections/wijayaKusuma/wijayaKusuma-1.png",
       "images": [
         "/db/collections/wijayaKusuma/wijayaKusuma-1.png",
@@ -266,7 +266,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -279,7 +279,7 @@
       "tokopedia": "Coming Soon"
     },
     {
-      "id": "11",
+      "id": "banda",
       "img_thumbnail": "/db/collections/banda/banda-1.png",
       "images": null,
       "product_name": "Banda",
@@ -291,7 +291,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -304,7 +304,7 @@
       "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-3-lampu-lantai-floor-lamp-kayu-solid?extParam=whid%3D5334167"
     },
     {
-      "id": "12",
+      "id": "pomala",
       "img_thumbnail": "/db/collections/pomala/pomala-1.png",
       "images": [
         "/db/collections/pomala/pomala-1.png",
@@ -320,7 +320,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -333,7 +333,7 @@
       "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-5-lampu-lantai-floor-lamp-kayu-solid?extParam=whid%3D5334167"
     },
     {
-      "id": "13",
+      "id": "derawan",
       "img_thumbnail": "/db/collections/derawan/derawan-1.png",
       "images": [
         "/db/collections/derawan/derawan-1.png",
@@ -349,7 +349,7 @@
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -362,7 +362,7 @@
       "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-2-lampu-lantai-floor-lamp-kayu-solid-tinggi-70cm-warm-light?extParam=whid%3D5334167"
     },
     {
-      "id": "14",
+      "id": "sputnik",
       "img_thumbnail": "/db/collections/sputnik/sputnik-1.png",
       "images": [
         "/db/collections/sputnik/sputnik-1.png"
@@ -376,7 +376,7 @@
         "material": "Wood",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -389,7 +389,7 @@
       "tokopedia": "https://www.tokopedia.com/tutitu/vaniir-inlight-pendant-lamp-1-lampu-gantung-kayu-solid?extParam=whid%3D5334167"
     },
     {
-      "id": "15",
+      "id": "reed",
       "img_thumbnail": "/db/collections/reed/reed-1.png",
       "images": null,
       "product_name": "Reed",
@@ -401,7 +401,7 @@
         "material": "Wood",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
@@ -429,7 +429,7 @@
         "material": "Wood",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
-        "warranty": "6 month full replacement of unit",
+        "warranty": "3 years full replacement of unit",
         "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
