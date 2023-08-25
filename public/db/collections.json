@@ -1,16 +1,14 @@
 {
   "data": [
     {
-      "id": "hayamwuruk-linear-led-pendant",
-      "img_thumbnail": "/db/collections/hayamwuruk/hayamwuruk-1.png",
+      "id": "janaka",
+      "img_thumbnail": "/db/products/janaka/1.png",
       "images": [
-        "/db/collections/hayamwuruk/hayamwuruk-1.png",
-        "/db/collections/hayamwuruk/hayamwuruk-2.png",
-        "/db/collections/hayamwuruk/hayamwuruk-3.png",
-        "/db/collections/hayamwuruk/hayamwuruk-4.png"
+        "/db/products/janaka/1.png",
+        "/db/products/janaka/2.png"
       ],
-      "product_name": "Hayamwuruk",
-      "product_price": "Rp1.350.0000 - Rp2.350.000",
+      "product_name": "Janaka",
+      "product_price": "Rp790.000",
       "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
       "label": "Linear Pendants",
       "technical_details": {
@@ -19,7 +17,7 @@
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
         "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø8 / Straight wood max 100cm",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
           "3000K Bright Warm White",
@@ -28,19 +26,20 @@
         "cable_colour": "Black",
         "drop_length": "1500mm/ Custom x Meters"
       },
-      "tokopedia": "https://www.tokopedia.com/inlight/inlight-hayamwuruk-lamp-linear-2-lampu-gantung-kayu-solid-100cm"
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-janaka-chandelier-lamp-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
     },
     {
-      "id": "kahuripan-linear-led-pendant",
-      "img_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/23/1599b480-8558-4b68-a366-be9ed7fa82a2.jpg",
+      "id": "ekalaya-chandelier",
+      "img_thumbnail": "/db/products/ekalaya/1.png",
       "images": [
-        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/23/1599b480-8558-4b68-a366-be9ed7fa82a2.jpg",
-        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/23/f5fecb0b-7f79-4e8e-86e4-d83a5433f572.jpg",
-        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/23/66d9505c-d387-40aa-b831-ef61f017acba.jpg"
+        "/db/products/ekalaya/1.png",
+        "/db/products/ekalaya/2.png",
+        "/db/products/ekalaya/3.png",
+        "/db/products/ekalaya/4.png"
       ],
-      "product_name": "Kahuripan",
-      "product_price": "Rp1.350.0000 - Rp2.350.000",
-      "product_desc": "The Kahuripanpendant features a neatly curved top referencing the presence of the arc as an architectural detail in residential and commercial spaces. This pendant is well suited to be a feature over kitchen islands, dining tables, and office spaces.",
+      "product_name": "Ekalaya",
+      "product_price": "Rp290.000",
+      "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
       "label": "Linear Pendants",
       "technical_details": {
         "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
@@ -48,7 +47,38 @@
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
         "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø8 / Straight wood max 100cm",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-ekalaya-chandelier-lamp-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
+    },
+    {
+      "id": "kahuripan-lamp-linear",
+      "img_thumbnail": "/db/products/kahuripan/1.jpg",
+      "images": [
+        "/db/products/kahuripan/1.jpg",
+        "/db/products/kahuripan/2.jpg",
+        "/db/products/kahuripan/3.jpg",
+        "/db/products/kahuripan/4.jpg",
+        "/db/products/kahuripan/5.jpg"
+      ],
+      "product_name": "Kahuripan",
+      "product_price": "Rp1.400.000 - Rp2.800.000",
+      "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
         "led_colour": [
           "2700K Warm White",
           "3000K Bright Warm White",
@@ -60,175 +90,16 @@
       "tokopedia": "https://www.tokopedia.com/inlight/inlight-kahuripan-lamp-linear-8-lampu-gantung-kayu-solid-100cm-c0c6e?extParam=whid%3D16047080"
     },
     {
-      "id": "wisnuwardhana-linear-led-pendant",
-      "img_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/f96f8fd5-8988-41f7-952a-942c2a15b25b.jpg",
+      "id": "pandawa-chandelier",
+      "img_thumbnail": "/db/products/pandawa/1.png",
       "images": [
-        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/f96f8fd5-8988-41f7-952a-942c2a15b25b.jpg",
-        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/4af4a9a4-2167-415a-9d72-42412982afc3.png",
-        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/4af4a9a4-2167-415a-9d72-42412982afc3.png"
+        "/db/products/pandawa/1.png",
+        "/db/products/pandawa/2.png",
+        "/db/products/pandawa/3.png",
+        "/db/products/pandawa/4.png"
       ],
-      "product_name": "Wishnuwardhana",
-      "product_price": "Rp1.350.000 - Rp2.650.000",
-      "product_desc": "The Wisnuwardhana Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
-      "label": "Linear Pendants",
-      "technical_details": {
-        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
-        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-13-lampu-gantung-kayu-solid-double-lamp-120cm-068d7?extParam=whid%3D5334167"
-    },
-    {
-      "id": "singhasari",
-      "img_thumbnail": "/db/collections/singhasari/singhasari-1.png",
-      "images": null,
-      "product_name": "Singhasari",
-      "product_price": "Coming Soon",
-      "product_desc": "Singhasari is a striking linear beam like pendant crafted in solid timber. The tall timber body allows more timber feature to be displayed with the shape softened with subtly curved edges. The Talli has been designed to be a statement pendant. The LED strip lighting is minimal yet powerful enough for task lighting in a kitchen environment. Made in Indonesia.",
-      "label": "Linear Pendants",
-      "technical_details": {
-        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
-        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "Coming Soon"
-    },
-    {
-      "id": "mataram",
-      "img_thumbnail": "/db/collections/mataram/mataram-1.png",
-      "images": null,
-      "product_name": "Inlight Pendant Lamp Linear 6 - Lampu gantung kayu solid - 120cm",
-      "product_price": "Rp1.350.000 - Rp2.350.000",
-      "product_desc": "Mataram Pendant is a dimmable LED pendant available in lengths up to 3 meters. The single LED strip light makes it both functional over kitchen islands and workspaces, and a standalone statement piece. Made in Indonesia.",
-      "label": "Linear Pendants",
-      "technical_details": {
-        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
-        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-6-lampu-gantung-kayu-solid-120cm?extParam=whid%3D5334167"
-    },
-    {
-      "id": "jayanegara",
-      "img_thumbnail": "/db/collections/jayanegara/jayanegara-1.png",
-      "images": [
-        "/db/collections/jayanegara/jayanegara-1.png",
-        "/db/collections/jayanegara/jayanegara-2.png"
-      ],
-      "product_name": "Jayanegara",
-      "product_price": "Coming Soon",
-      "product_desc": "Jayanegara Pendantpendant features a neatly curved top referencing the presence of the arc as an architectural detail in residential and commercial spaces. This pendant is well suited to be a feature over kitchen islands, dining tables, and of ce spaces. Made in Indonesia.",
-      "label": "Linear Pendants",
-      "technical_details": {
-        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
-        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "Coming Soon"
-    },
-    {
-      "id": "rangkuti",
-      "img_thumbnail": "/db/collections/rangkuti/rangkuti-1.png",
-      "images": [
-        "/db/collections/rangkuti/rangkuti-1.png",
-        "/db/collections/rangkuti/rangkuti-2.png"
-      ],
-      "product_name": "Rangkuti",
-      "product_price": "Coming Soon",
-      "product_desc": "Rangkuti features a neatly curved top referencing the presence of the arc as an architectural detail in residential and commercial spaces. This pendant is well suited to be a feature over kitchen islands, dining tables, and of ce spaces. Made in Indonesia.",
-      "label": "Linear Pendants",
-      "technical_details": {
-        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
-        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "Coming Soon"
-    },
-    {
-      "id": "arunika",
-      "img_thumbnail": "/db/collections/arunika/arunika-1.png",
-      "images": null,
-      "product_name": "Arunika",
-      "product_price": "Coming Soon",
-      "product_desc": "Arunika Inspired by the simplicity of Nordic architecture, this long chandelier comes handcrafted to celebrate natural landscapes, Scandinavian tradition and modern minimalism through the art of illumination. Designed to shine light UPWARD and DOWNWARD, the double edge pendant chandelier serves as both an overhead lamp and accent light to give your space a sophisticated ambience.",
-      "label": "Linear Pendants",
-      "technical_details": {
-        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
-        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "Coming Soon"
-    },
-    {
-      "id": "Hayamwuruk Up",
-      "img_thumbnail": "/db/collections/hayamwurukUp/hayamwurukUp-1.png",
-      "images": [
-        "/db/collections/hayamwurukUp/hayamwurukUp-1.png",
-        "/db/collections/hayamwurukUp/hayamwurukUp-2.png",
-        "/db/collections/hayamwurukUp/hayamwurukUp-3.png"
-      ],
-      "product_name": "Hayamwuruk Up",
-      "product_price": "Coming Soon",
+      "product_name": "Pandawa",
+      "product_price": "Rp290.000",
       "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
       "label": "Linear Pendants",
       "technical_details": {
@@ -246,19 +117,21 @@
         "cable_colour": "Black",
         "drop_length": "1500mm/ Custom x Meters"
       },
-      "tokopedia":"Coming Soon"
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-pandawa-chandelier-lamp-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
     },
     {
-      "id": "brawijaya",
-      "img_thumbnail": "/db/collections/brawijaya/brawijaya-1.png",
+      "id": "galuh-lamp-linear",
+      "img_thumbnail": "/db/products/galuh/1.jpg",
       "images": [
-        "/db/collections/brawijaya/brawijaya-1.png",
-        "/db/collections/brawijaya/brawijaya-2.png",
-        "/db/collections/brawijaya/brawijaya-4.png"
+        "/db/products/galuh/1.jpg",
+        "/db/products/galuh/2.jpg",
+        "/db/products/galuh/3.jpg",
+        "/db/products/galuh/4.jpg",
+        "/db/products/galuh/5.jpg"
       ],
-      "product_name": "Brawijaya",
-      "product_price": "Coming Soon",
-      "product_desc": "The Brawijaya Pendant has a modern and uniquely crafted shape that. Is the perfect pendant for kitchen islands and dining tables. We craft the Brawijaya in lengths up to 3 meters in bespoke hardwood timbers. Made in Indonesia",
+      "product_name": "Galuh",
+      "product_price": "Rp1.400.000 - Rp2.800.000",
+      "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
       "label": "Linear Pendants",
       "technical_details": {
         "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
@@ -275,22 +148,22 @@
         "cable_colour": "Black",
         "drop_length": "1500mm/ Custom x Meters"
       },
-      "tokopedia": "Coming Soon"
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-galuh-lamp-linear-7-lampu-gantung-kayu-solid-240cm-fb05b?extParam=whid%3D16047080"
     },
     {
-      "id": "wijaya-kusuma",
-      "img_thumbnail": "/db/collections/wijayaKusuma/wijayaKusuma-1.png",
+      "id": "aloor-floor-lamp",
+      "img_thumbnail": "/db/products/aloor/1.jpg",
       "images": [
-        "/db/collections/wijayaKusuma/wijayaKusuma-1.png",
-        "/db/collections/wijayaKusuma/wijayaKusuma-2.png",
-        "/db/collections/wijayaKusuma/wijayaKusuma-3.png",
-        "/db/collections/wijayaKusuma/wijayaKusuma-4.png",
-        "/db/collections/wijayaKusuma/wijayaKusuma-5.png"
+        "/db/products/aloor/1.jpg",
+        "/db/products/aloor/2.jpg",
+        "/db/products/aloor/3.jpg",
+        "/db/products/aloor/4.jpg",
+        "/db/products/aloor/5.jpg"
       ],
-      "product_name": "Wijaya Kusuma",
-      "product_price": "Coming Soon",
-      "product_desc": "Modern LED oor lamp made from solid Teakwood or Mindi wood. Combination of modern minimalist design, energy-ef cient eye-caring LED technology and traditional beauty of wood. Thanks to its modern design, it also provides a stylish decoration for your home, workplace and all living spaces.",
-      "label": "Flooring Lamp",
+      "product_name": "Aloor Floor Lamp",
+      "product_price": "Rp1.350.000",
+      "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
       "technical_details": {
         "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
@@ -306,16 +179,21 @@
         "cable_colour": "Black",
         "drop_length": "1500mm/ Custom x Meters"
       },
-      "tokopedia": "Coming Soon"
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-alor-floor-lamp-lamp-lampu-lantai-floor-lamp-kayu-soli?extParam=whid%3D16047080"
     },
     {
-      "id": "banda",
-      "img_thumbnail": "/db/collections/banda/banda-1.png",
-      "images": null,
-      "product_name": "Inlight Pendant Lamp Linear 3- Lampu Lantai/ Floor Lamp kayu solid",
-      "product_price": "Rp975.000",
-      "product_desc": "Modern LED oor lamp made from solid Teakwood or Mindi wood. Combination of modern minimalist design, energy-e cient eye-caring LED technology and traditional beauty of wood. Thanks to its modern design, it also provides a stylish decoration for your home, workplace and all living spaces.",
-      "label": "Flooring Lamp",
+      "id": "balayudha-chandelier-lamp",
+      "img_thumbnail": "/db/products/balayudha/1.png",
+      "images": [
+        "/db/products/balayudha/1.jpg",
+        "/db/products/balayudha/2.jpg",
+        "/db/products/balayudha/3.jpg",
+        "/db/products/balayudha/4.png"
+      ],
+      "product_name": "Balayudha",
+      "product_price": "Rp290.000",
+      "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
       "technical_details": {
         "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
@@ -331,20 +209,21 @@
         "cable_colour": "Black",
         "drop_length": "1500mm/ Custom x Meters"
       },
-      "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-3-lampu-lantai-floor-lamp-kayu-solid?extParam=whid%3D5334167"
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-balayudha-chandelier-lamp-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
     },
     {
-      "id": "pomala",
-      "img_thumbnail": "/db/collections/pomala/pomala-1.png",
+      "id": "wisnuwardhana-lamp-linear",
+      "img_thumbnail": "/db/products/wisnuwardhana/1.png",
       "images": [
-        "/db/collections/pomala/pomala-1.png",
-        "/db/collections/pomala/pomala-2.png",
-        "/db/collections/pomala/pomala-3.png"
+        "/db/products/wisnuwardhana/1.png",
+        "/db/products/wisnuwardhana/2.jpg",
+        "/db/products/wisnuwardhana/3.jpg",
+        "/db/products/wisnuwardhana/4.jpg"
       ],
-      "product_name": "Inlight Pendant Lamp Linear 5- Lampu Lantai/ Floor Lamp kayu solid",
-      "product_price": "Rp975.000",
-      "product_desc": "Modern LED oor lamp made from solid Teakwood or Mindi wood. Combination of modern minimalist design, energy-e cient eye-caring LED technology and traditional beauty of wood. Thanks to its modern design, it also provides a stylish decoration for your home, workplace and all living spaces.",
-      "label": "Flooring Lamp",
+      "product_name": "Wisnuwardhana",
+      "product_price": "Rp1.350.000 - Rp3.650.000",
+      "product_desc": "The Hayamwuruk Pendant has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
       "technical_details": {
         "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
         "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
@@ -360,134 +239,25 @@
         "cable_colour": "Black",
         "drop_length": "1500mm/ Custom x Meters"
       },
-      "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-5-lampu-lantai-floor-lamp-kayu-solid?extParam=whid%3D5334167"
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-wisnuwardhana-lamp-linear-6-lampu-gantung-kayu-solid-100cm-72921?extParam=whid%3D16047080"
     },
     {
-      "id": "derawan",
-      "img_thumbnail": "/db/collections/derawan/derawan-1.png",
+      "id": "satriya-chandelier-lamp",
+      "img_thumbnail": "/db/products/satriya/1.png",
       "images": [
-        "/db/collections/derawan/derawan-1.png",
-        "/db/collections/derawan/derawan-2.png",
-        "/db/collections/derawan/derawan-3.png"
+        "/db/products/satriya/1.png",
+        "/db/products/satriya/2.jpg",
+        "/db/products/satriya/3.jpg",
+        "/db/products/satriya/4.jpg",
+        "/db/products/satriya/5.jpg"
       ],
-      "product_name": "Inlight Pendant Lamp Linear 2- Lampu Lantai/ Floor Lamp kayu solid - Tinggi 70cm, Warm light",
-      "product_price": "Rp550.000 - Rp800.000",
-      "product_desc": "Modern LED oor lamp made from solid Teakwood or Mindi wood. Combination of modern minimalist design, energy-e cient eye-caring LED technology and traditional beauty of wood. Thanks to its modern design, it also provides a stylish decoration for your home, workplace and all living spaces.",
-      "label": "Flooring Lamp",
-      "technical_details": {
-        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
-        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "https://www.tokopedia.com/tutitu/inlight-pendant-lamp-linear-2-lampu-lantai-floor-lamp-kayu-solid-tinggi-70cm-warm-light?extParam=whid%3D5334167"
-    },
-    {
-      "id": "sputnik",
-      "img_thumbnail": "/db/collections/sputnik/sputnik-1.png",
-      "images": [
-        "/db/collections/sputnik/sputnik-1.png"
-      ],
-      "product_name": "Vaniir Inlight Pendant Lamp 1 - Lampu gantung kayu solid",
-      "product_price": "Rp200.000",
-      "product_desc": "Sputnik is a new product designed by Harimurti for Inlight project. Sputnikre ned shape is manually turned in Indonesia from high-quality wood like teak, Mindi, mahogany",
-      "label": "Chandelier Lamps",
-      "technical_details": {
-        "dimensions": "ø 10, 15 and 20 cm.",
-        "material": "Wood",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "https://www.tokopedia.com/tutitu/vaniir-inlight-pendant-lamp-1-lampu-gantung-kayu-solid?extParam=whid%3D5334167"
-    },
-    {
-      "id": "reed",
-      "img_thumbnail": "/db/collections/reed/reed-1.png",
-      "images": null,
-      "product_name": "Reed",
-      "product_price": "Coming Soon",
-      "product_desc": "Sputnik is a new product designed by Harimurti for Inlight project. Sputnikre ned shape is manually turned in Indonesia from high-quality wood like teak, Mindi, mahogany",
-      "label": "Chandelier Lamps",
-      "technical_details": {
-        "dimensions": "ø 10, 15 and 20 cm.",
-        "material": "Wood",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "Coming Soon"
-    },
-    {
-      "id": "16",
-      "img_thumbnail": "/db/collections/woodgate/woodgate-1.png",
-      "images": [
-        "/db/collections/woodgate/woodgate-1.png",
-        "/db/collections/woodgate/woodgate-2.png"
-      ],
-      "product_name": "Woodgate",
-      "product_price": "Coming Soon",
-      "product_desc": "Sputnik is a new product designed by Harimurti for Inlight project. Sputnikre ned shape is manually turned in Indonesia from high-quality wood like teak, Mindi, mahogany",
-      "label": "Chandelier Lamps",
-      "technical_details": {
-        "dimensions": "ø 10, 15 and 20 cm.",
-        "material": "Wood",
-        "input_power": "240V - 12/24VDC Transformer",
-        "cri": "90 CRI",
-        "warranty": "3 years full replacement of unit",
-        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
-        "led_colour": [
-          "2700K Warm White",
-          "3000K Bright Warm White",
-          "4000K Cool White"
-        ],
-        "cable_colour": "Black",
-        "drop_length": "1500mm/ Custom x Meters"
-      },
-      "tokopedia": "Coming Soon"
-    },
-    {
-      "id": "sputnik-chandelier",
-      "img_thumbnail": "/db/collections/sputnik-chandelier/1.jpg",
-      "images": [
-        "/db/collections/sputnik-chandelier/1.jpg",
-        "/db/collections/sputnik-chandelier/2.jpg",
-        "/db/collections/sputnik-chandelier/3.jpg",
-        "/db/collections/sputnik-chandelier/4.jpg"
-
-      ],
-      "product_name": "Sputnik Inlight chandelier Lamp 3 - Lampu gantung kayu solid",
+      "product_name": "Satriya",
       "product_price": "Rp550.000",
-      "product_desc": "Sputnik is a new product designed by Harimurti for Inlight project. Sputnikre ned shape is manually turned in Indonesia from high-quality wood like teak, Mindi, mahogany",
-      "label": "Chandelier Lamps",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
       "technical_details": {
-        "dimensions": "ø 10, 15 and 20 cm.",
-        "material": "Wood",
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
         "input_power": "240V - 12/24VDC Transformer",
         "cri": "90 CRI",
         "warranty": "3 years full replacement of unit",
@@ -500,7 +270,278 @@
         "cable_colour": "Black",
         "drop_length": "1500mm/ Custom x Meters"
       },
-      "tokopedia": "https://www.tokopedia.com/tutitu/sputnik-inlight-chandelier-lamp-3-lampu-gantung-kayu-solid?extParam=whid%3D5334167"
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-satriya-chandelier-lamp-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
+    },
+    {
+      "id": "arunika-chandelier-lamp",
+      "img_thumbnail": "/db/products/arunika/1.png",
+      "images": [
+        "/db/products/arunika/1.png",
+        "/db/products/arunika/2.png",
+        "/db/products/arunika/3.png",
+        "/db/products/arunika/4.png",
+        "/db/products/arunika/5.png"
+      ],
+      "product_name": "Arunika",
+      "product_price": "Rp290.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-arunika-chandelier-lamp-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
+    },
+    {
+      "id": "kamala-chandelier-lamp",
+      "img_thumbnail": "/db/products/kamala/1.png",
+      "images": [
+        "/db/products/kamala/1.png",
+        "/db/products/kamala/2.png",
+        "/db/products/kamala/3.png",
+        "/db/products/kamala/4.png",
+        "/db/products/kamala/5.png"
+      ],
+      "product_name": "Kamala",
+      "product_price": "Rp250.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-kamala-chandelier-lamp-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
+    },
+    {
+      "id": "bramantya-chandelier-lamp",
+      "img_thumbnail": "/db/products/bramantya/1.jpg",
+      "images": [
+        "/db/products/bramantya/1.jpg",
+        "/db/products/bramantya/2.jpg",
+        "/db/products/bramantya/3.jpg",
+        "/db/products/bramantya/4.jpg"
+      ],
+      "product_name": "Bramantya",
+      "product_price": "Rp250.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-bramantya-chandelier-lamp-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
+    },
+    {
+      "id": "adiwangsa-lamp",
+      "img_thumbnail": "/db/products/adiwangsa/1.jpg",
+      "images": [
+        "/db/products/adiwangsa/1.jpg",
+        "/db/products/adiwangsa/2.jpg",
+        "/db/products/adiwangsa/3.jpg"
+      ],
+      "product_name": "Adiwangsa",
+      "product_price": "Rp425.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-adiwangsa-lamp-lampu-tembok-kayu-solid?extParam=whid%3D16047080"
+    },
+    {
+      "id": "kertanegara-lamp-linear",
+      "img_thumbnail": "/db/products/kartanegara/1.jpg",
+      "images": [
+        "/db/products/kartanegara/1.jpg",
+        "/db/products/kartanegara/2.png",
+        "/db/products/kartanegara/3.jpg",
+        "/db/products/kartanegara/4.png"
+      ],
+      "product_name": "Kartanegara",
+      "product_price": "Rp1.650.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-kertanegara-lamp-linear-5-lampu-gantung-kayu-solid?extParam=whid%3D16047080"
+    },
+    {
+      "id": "mataram-lamp-linear",
+      "img_thumbnail": "/db/products/mataram/1.jpg",
+      "images": [
+        "/db/products/mataram/1.jpg",
+        "/db/products/mataram/2.jpg",
+        "/db/products/mataram/3.jpg",
+        "/db/products/mataram/4.jpg"
+      ],
+      "product_name": "Mataram",
+      "product_price": "Rp1.400.000 - Rp2.800.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-mataram-lamp-linear-4-lampu-gantung-kayu-solid-100cm-8a786?extParam=whid%3D16047080"
+    },
+    {
+      "id": "singhasari-lamp-linear",
+      "img_thumbnail": "/db/products/singhasari/1.jpg",
+      "images": [
+        "/db/products/singhasari/1.jpg",
+        "/db/products/singhasari/2.jpg",
+        "/db/products/singhasari/3.jpg",
+        "/db/products/singhasari/4.jpg"
+      ],
+      "product_name": "Singhasari",
+      "product_price": "Rp1.350.000 - Rp3.650.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-singhasari-lamp-linear-3-lampu-gantung-kayu-solid-100cm-45fee?extParam=whid%3D16047080"
+    },
+    {
+      "id": "hayamwuruk-lamp-linear",
+      "img_thumbnail": "/db/products/hayamwuruk/1.jpg",
+      "images": [
+        "/db/products/hayamwuruk/1.jpg",
+        "/db/products/hayamwuruk/2.jpg",
+        "/db/products/hayamwuruk/3.jpg",
+        "/db/products/hayamwuruk/4.jpg"
+      ],
+      "product_name": "Hayamwuruk",
+      "product_price": "Rp1.350.000 - Rp2.750.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-hayamwuruk-lamp-linear-2-lampu-gantung-kayu-solid-100cm?extParam=whid%3D16047080"
+    },
+    {
+      "id": "ken-dedes-pendant-lamp",
+      "img_thumbnail": "/db/products/kenDedes/1.jpg",
+      "images": [
+        "/db/products/kenDedes/1.jpg",
+        "/db/products/kenDedes/2.jpg",
+        "/db/products/kenDedes/3.jpg",
+        "/db/products/kenDedes/4.jpg"
+      ],
+      "product_name": "Ken Dedes",
+      "product_price": "Rp1.350.000 - Rp2.750.000",
+      "product_desc": "The Hayamwuruk has a modern and uniquely crafted shape that gets its name from the ten-degree taper to the timber body. Is the perfect pendant for kitchen islands and dining tables. We craft the Hayamwuruk in lengths up to 3 meters in bespoke hardwood timbers.",
+      "label": "Linear Pendants",
+      "technical_details": {
+        "dimensions": "80, 100, 120, 140, 160, 180, 200, 300cm x 4,5 cm x 4 cm",
+        "material": "Solid Hardwood, Aluminium, Dotless LED Lighting",
+        "input_power": "240V - 12/24VDC Transformer",
+        "cri": "90 CRI",
+        "warranty": "3 years full replacement of unit",
+        "ceiling_plate": "Black Canopy Ø80 / Straight wood max 80cm",
+        "led_colour": [
+          "2700K Warm White",
+          "3000K Bright Warm White",
+          "4000K Cool White"
+        ],
+        "cable_colour": "Black",
+        "drop_length": "1500mm/ Custom x Meters"
+      },
+      "tokopedia": "https://www.tokopedia.com/inlight/inlight-ken-dedes-pendant-lamp-linear-1-lampu-gantung-kayu-solid-120cm-c91db?extParam=whid%3D16047080"
     }
   ]
 }

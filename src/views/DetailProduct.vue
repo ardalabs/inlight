@@ -7,7 +7,7 @@ import Footer from "../components/common/Footer.vue";
 <template>
   <NavBar />
   <div
-    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 xl:mt-40 xl:max-w-[1200px] 2xl:max-w-[1600px]"
+    class="relatie m-auto mt-20 max-w-sm sm:max-w-[540px] md:max-w-[668px] lg:mt-28 xl:mt-40 xl:max-w-[1200px] 2xl:max-w-[1400px]"
   >
     <ElementBackground position="left" />
     <div v-if="isLoading">
@@ -30,7 +30,7 @@ import Footer from "../components/common/Footer.vue";
               <img
                 :src="`${jsonData.images[currentImageIndex]}`"
                 alt=""
-                class="object-fill"
+                class="object-fill 2xl:w-full 2xl:h-[550px] mt-4"
               />
             </div>
             <div v-else class="mt-0">
